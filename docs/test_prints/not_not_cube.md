@@ -6,7 +6,7 @@ title: Mikkel's Not Not Cube
 
 Just another simple test print.
 
-[Download :octicons-download-24:](../stl/eva_30mm_calibration_cube.stl){: .md-button .md-button--primary }
+[Download :octicons-download-24:](stl/eva_30mm_calibration_cube.stl){: .md-button .md-button--primary }
 
 
 ![not_cube](assets/not_not_cube.png)
