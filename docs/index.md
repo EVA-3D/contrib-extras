@@ -11,7 +11,7 @@ Part descriptions are written in markdown (.md) files.
 * The STL(s) should be in `docs/[category]/stls`. All files should be prefixed with your part name.
 * Take a look at [Pawel's Spool Holder](https://github.com/EVA-3D/contrib-extras/tree/main/docs/spool_holders) for inspiration.
 
-If you're not familiar with Git, reach out to @miklschmidt#2036 on discord, or get help with your submission on [the Unofficial Rat Rig Discord Server](https://discord.gg/D62e8XNeYa).
+If you're not familiar with Git, reach out to `@miklschmidt#2036` on discord, or get help with your submission on [the Unofficial Rat Rig Discord Server](https://discord.gg/D62e8XNeYa).
 
 Please! Share your candy!
 
