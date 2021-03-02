@@ -6,6 +6,16 @@
 
 #######################################################
 
+Part name
+Boont MK8 Hotend Mount
+
+Compatible EVA version
+2.1.0 - 2.2.0
+
+Related EVA parts
+universal_face
+mosquito_support
+
 Changelog: 
 v1.0 03/03/2021 Boont Release
 
@@ -24,3 +34,6 @@ Standard EVA
 
 To Do: 
 modify mosquito_support specific for mk8
+
+Contributor:
+Boont
