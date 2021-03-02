@@ -24,13 +24,13 @@ You might need another hole pattern for your particular drag chain, if you adapt
 | 1  | 2   | M3 x 25mm                                      | No        |
 | 2  | 7   | M3 Hex nuts                                    | No        |
 | 3  | 4   | M3 Washer                                      | No        |
-| 6  | 1   | 2020 Frame Anchor                              | [Yes](stl/tancuder_10x20_cable_chain_2020_frame_anchor.stl) |
-| 6  | 1   | EVA Carriage Mount                             | [Yes](stl/tancuder_10x20_cable_chain_eva_mount.stl) |
+| 6  | 1   | 2020 Frame Anchor                              | [Yes](../stl/tancuder_10x20_cable_chain_2020_frame_anchor.stl) |
+| 6  | 1   | EVA Carriage Mount                             | [Yes](../stl/tancuder_10x20_cable_chain_eva_mount.stl) |
 
 # Print instructions
 Follow the general EVA guidelines. At least 2 perimeters and 20% infill at .2mm or .3mm layer height. Find a big flat surface to go against the build plate.
 
 # Step Files
-[2020 Frame Anchor](assets/tancuder_10x20_cable_chain_frame_anchor.step)
+[2020 Frame Anchor](../assets/tancuder_10x20_cable_chain_frame_anchor.step)
 
-[EVA Carriage Mount](assets/tancuder_10x20_cable_chain_eva_mount.step)
+[EVA Carriage Mount](../assets/tancuder_10x20_cable_chain_eva_mount.step)
