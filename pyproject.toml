@@ -2,7 +2,7 @@
 name = "contrib-extras"
 version = "0.1.0"
 description = ""
-authors = ["Paweł Kucmus <pkucmus@gmail.com>"]
+authors = ["Paweł Kucmus <pkucmus@gmail.com>", "Mikkel Schmidt <mikkel.schmidt@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
