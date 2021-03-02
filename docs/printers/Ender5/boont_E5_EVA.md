@@ -4,8 +4,17 @@
 
 #######################################################
 
+Part name:
+Boont Ender5 Universal Face
+
 Changelog:
 v1.0      03/03/2021      Boont         Release
+
+Compatible EVA version
+2.1.0 -> 2.2.X
+
+Related EVA parts
+This replaces the Universal_face
 
 Description:
 This is a modification of the universal faceplace v2.2 for Ender5 family printers. 
@@ -22,8 +31,11 @@ Boont-EVA2.2-E5-Universal-Face.stl
 Additional files required:
 Belt Grabbers
 
-Hardware Required:
+Necessary Hardware BOM:
 Standard EVA
 
 To Do:
 Fix the backplate for the vertical cable guide.
+
+Contributor
+Boont
