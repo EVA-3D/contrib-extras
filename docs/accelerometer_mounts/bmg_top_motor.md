@@ -28,4 +28,4 @@ Design incorporates a groove under the place where header pins poke down, to ble
 Print it vertically. 2 shells, 20-30% infill and 0.2 layer height should be fine.
 
 ## Step Files
-you can export step files from OnShape
+you can export step files from [OnShape](https://cad.onshape.com/documents/25c852bf174fbdf476467b52/v/f168eee5558a37dc260507f3/e/d743a2d0acb3b21eb506a551)
