@@ -1,5 +1,5 @@
 ---
-title: Easymod mgn12 unofficial
+title: Easymod mgn12
 ---
 
 > Created by: [EOliveira](https://github.com/EduardoOliveira)
