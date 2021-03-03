@@ -7,7 +7,7 @@ title: Tomasz's BMG top motor mounted ADXL345
 ## Description
 An accelerometer mount atop the BMG stepper motor.
 
-Design incorporates a groove under the place where header pins poke down, to ble able to lay the accelerometer flat on the mount.
+Design incorporates a groove under the place where header pins poke down, to be able to lay the accelerometer flat on the mount.
 
 ![tomaszs_top_BMG](assets/tomaszs_top_BMG.png)
 
