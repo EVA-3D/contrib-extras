@@ -4,7 +4,7 @@ title: Easymod mgn12
 
 > Created by: [EOliveira](https://github.com/EduardoOliveira)
 
-# An implementation of MGN12 for EasyMod 1.2.1
+## An implementation of MGN12 for EasyMod 1.2.1
 
 The XY joiners are a drop in replacement for the official ones.
 
@@ -23,9 +23,9 @@ You'll need longer M5 screws as these adapters are 3mm thicker than the aluminum
 
 [Onshape](https://cad.onshape.com/documents/8559b0e7f5d3b30427c227c5/w/d70f098c5b327e06a1ae23f4/e/67166bbf807ca01f4a1ac8b3?configuration=List_V5TmcWwH5u18OA%3DDefault).
 
-# Compatible EVA versions
+## Compatible EVA versions
 1.2.1
-# BOM
+## BOM
 
 | No | Qty | Name                                           | Printable |
 | -- | --- | ---------------------------------------------- | --------- |
