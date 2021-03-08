@@ -9,6 +9,7 @@ This is a modification of the universal faceplace v2.2 for Ender5 family printer
 It shifts the beltgrabber slots central to the 2020 extrusion on a Ender 5 
 printer modified with MGN12H linear rail mounted on top.
 
+![microswiss-mk8](assets/ender-5.png)
 ## Compatible EVA version
 2.1.0 -> 2.2.X
 

@@ -8,6 +8,8 @@ title: Boont's MK8 Hotend Mount
 This is a MK8 mount for the Microswiss MK8 hotend. It should
 work with all mk8 2-bolt hotends.
 
+![microswiss-mk8](assets/microswiss-mk8.png)
+
 ## Compatible EVA version
 2.1.0 - 2.2.0
 
