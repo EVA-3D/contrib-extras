@@ -13,6 +13,8 @@ Part descriptions are written in markdown (.md) files.
 
 If you're not familiar with Git, reach out to `@miklschmidt#2036` on discord, or get help with your submission on [the Unofficial Rat Rig Discord Server](https://discord.gg/D62e8XNeYa).
 
+Please note that all contributes are automatically subject to the terms of the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+
 Please! Share your candy!
 
 ![candy](assets/candy_bowl.png)
