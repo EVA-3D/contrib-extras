@@ -14,7 +14,7 @@ Universal Accelerometer Mount for ADXL345 mounted at the EVA-shroud.
 ## BOM
 | No | Qty | Name                                           | Printable |
 | -- | --- | ---------------------------------------------- | --------- |
-| 1  | 1   | ADXL345 Shroud                                 | [Yes](stl/ADXL345 Shroud.STL) |
+| 1  | 1   | ADXL345 Shroud                                 | [Yes](stl/adxl345_shroud.STL) |
 | 2  | 2   | DIN 912 M3 6 mm                                | No        |
 | 3  | 1   | AXDL345                                        | No        |
 | 4  | 2   | M3 Nut mm                               		    | No        |
