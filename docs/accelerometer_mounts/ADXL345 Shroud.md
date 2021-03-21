@@ -8,7 +8,7 @@ title: Oranginator's ADXL345 shroud mount
 Universal Accelerometer Mount for ADXL345 mounted at the EVA-shroud.
 
 
-![tomaszs_top_BMG](assets/ADXL345 Shroud.jpg)
+![Oranginator's ADXL345 shroud mount](assets/adxl345_shroud.jpg)
 
 
 ## BOM
@@ -17,8 +17,8 @@ Universal Accelerometer Mount for ADXL345 mounted at the EVA-shroud.
 | 1  | 1   | ADXL345 Shroud                                 | [Yes](stl/ADXL345 Shroud.STL) |
 | 2  | 2   | DIN 912 M3 6 mm                                | No        |
 | 3  | 1   | AXDL345                                        | No        |
-| 4  | 2   | M3 Nut mm                               		| No        |
-| 5  | 2   | M3 nylon washer                           		| No        |
+| 4  | 2   | M3 Nut mm                               		    | No        |
+| 5  | 2   | M3 nylon washer                           	  	| No        |
 
 
 ## Compatible EVA version
