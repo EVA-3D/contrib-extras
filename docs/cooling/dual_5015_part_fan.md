@@ -26,8 +26,8 @@ This mod replaces `back_corexy` and `top_bmg_mgn15`
 | 1  | 2   | 5015 Blower Fan                                | No        |
 | 2  | ?   | Various M3 screws                              | No        |
 | 3  | 1   | dual_5015_part_fan_core_xy_back                | [Yes](stl/dual_5015_part_fan_core_xy_back.stl) |
-| 4  | 1   | daul_5015_part_fan_top_bmg_mgn15               | [Yes](stl/daul_5015_part_fan_top_bmg_mgn15.stl) |
-| 5  | 1   | daul_5015_part_fan_connector                   | [Yes](stl/daul_5015_part_fan_connector.stl) |
+| 4  | 1   | dual_5015_part_fan_top_bmg_mgn15               | [Yes](stl/dual_5015_part_fan_top_bmg_mgn15.stl) |
+| 5  | 1   | dual_5015_part_fan_connector                   | [Yes](stl/dual_5015_part_fan_connector.stl) |
 
 ## Print instructions
 LH = 0.2
@@ -40,4 +40,6 @@ Supports needed
 ## Step Files
 [Dual 5015 Part Fan Core XY Back](assets/dual_5015_part_fan_core_xy_back.stp)
 
-[Dual 5015 Part Fan Top BMG MGN15](assets/daul_5015_part_fan_top_bmg_mgn15.stp)
+[Dual 5015 Part Fan Top BMG MGN15](assets/dual_5015_part_fan_top_bmg_mgn15.stp)
+
+[Dual 5015 Part Fan Top BMG MGN15](assets/dual_5015_part_fan_connector.stp)
