@@ -1,5 +1,5 @@
 ---
-title: SuperSniffles' Dual 5015 Part Fan Mod
+title: SuperSniffles' Cable Chain Mount for Dual 5015 Mod
 ---
 
 ## Description
