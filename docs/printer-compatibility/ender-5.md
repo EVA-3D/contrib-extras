@@ -15,6 +15,7 @@ printer modified with MGN12H linear rail mounted on top.
 
 ## Changelog:
 v1.0 03/03/2021 Boont Release
+v1.1 19/04/2021 FlatESIAN back plate added
 
 ## Related EVA parts
 This replaces the universal_face
@@ -27,9 +28,10 @@ use the standard corexy backplate if you wish to use the cable guide.
 | No | Qty | Name                                           | Printable |
 | -- | --- | ---------------------------------------------- | --------- |
 | 1  | 1   | eva-2.2-ender-5-universal-face                 | [Yes](stl/eva-2.2-ender-5-universal-face.stl) |
+| 1  | 1   | eva-2.2-ender-5-flat-back               		| [Yes](stl/eva-2.2-ender-5-flat-back.stl) |
 
 ## Additional files required
 Get the belt grabbers from the original [EVA 2.2 stls](https://main.eva-3d.page).
 
 ## To Do
-Fix the backplate for the vertical cable guide.
+Modify the vertical cable guide stalk to clear the flatESIAN back
