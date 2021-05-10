@@ -1,5 +1,5 @@
 ---
-title: Boont's MK8 Hotend Mount
+title: Boont's Sherpa Mini RC1 Mount
 ---
 
 > Created by: [Boont](https://github.com/silvalis)
