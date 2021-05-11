@@ -1,8 +1,9 @@
 ---
-title: top_gun_de's Mosquito mount with brass inserts
+title: top_gun_de's Mosquito Mount with Brass Inserts
 ---
 
 ## Description:
+> Created by: [Detlev Rackow](https://github.com/top-gun)
 
 EVA is designed as a beginner-friendly carriage system, it is based on M3-screws and regular nuts. In some places, brass inserts have advantages over M3-nuts as they can't fall out during upgrades or repairs. Inserting a brass inserts requires a soldering iron, and the inserts are a bit more expensive than the nuts.
 
@@ -15,8 +16,6 @@ Each mount consists of the main part ("face") and a smaller bottom part ("suppor
 
 The fan ducts are optional, you may continue to use your regular nut-mounted fan duct. 
 
-> Created by: [Detlev Rackow](https://github.com/top-gun)
-
 [Mosquito](#mosquito)
 
 [Dragon](#dragon)
@@ -25,9 +24,9 @@ The fan ducts are optional, you may continue to use your regular nut-mounted fan
 
 EVA 2.1 or later
 
-# Mosquito
+## Mosquito
 
-## BOM - Mosquito:
+### BOM - Mosquito:
 
 | No | Qty | Name                                           | Printable | Source
 | -- | --- | ---------------------------------------------- | --------- | -------
@@ -40,8 +39,8 @@ You may try thinner heat inserts with 4.6mm OD. Don't use the popular 5.6mm-inse
 
 ![Mosquito](assets/Mosquito.JPG)
 
-# Dragon
-## BOM - Dragon:
+## Dragon
+### BOM - Dragon:
 
 | No | Qty | Name                                           | Printable | Source
 | -- | --- | ---------------------------------------------- | --------- | -------
