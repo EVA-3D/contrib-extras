@@ -2,7 +2,8 @@
 title: TheMacBoy's DragonFly BMS Hotend Mount
 ---
 
-> Created by: [TheMacBoy
+> Created by: [TheMacBoy]
+
 ## Description
 This is a DragonFly BMS mount for the Phaetus hotend.
 
