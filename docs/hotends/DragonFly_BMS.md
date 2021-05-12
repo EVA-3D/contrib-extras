@@ -19,7 +19,7 @@ This is a DragonFly BMS mount for the Phaetus hotend.
 ## Related EVA parts
 universal_face
 
-##source OnShape files
+## Source OnShape files
 ![DragonFly BMS](https://cad.onshape.com/documents/f5b4dc864f32153dba7690b3/w/8f750729d643301faf8fc3c8/e/c2ebd73578bb9fa59d6904bc)
 
 ## Changelog
