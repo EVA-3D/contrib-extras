@@ -7,14 +7,14 @@ title: TheMacBoy's DragonFly BMS Hotend Mount
 ## Description
 This is a DragonFly BMS mount for the Phaetus hotend.
 
-![DragonFly BMS front](assets/DragfonFly%20onshape%20front.png)
+![DragonFly BMS front](assets/dragonfly-onshape-front.png)
 
-![DragonFly BMS rear](assets/DragfonFly%20onshape%20side.png)
+![DragonFly BMS rear](assets/dragonfly-onshape-side.png)
 
-![DragonFly BMS bottom](assets/DragfonFly%20onshape%20bottom.png)
+![DragonFly BMS bottom](assets/dragonfly-onshape-bottom.png)
 
 ## Compatible EVA version
-^2.2.0
+2.2.0 - ?
 
 ## Related EVA parts
 universal_face
@@ -28,8 +28,8 @@ v1.0 12/05/2021 TheMacBoy Release
 ## BOM:
 | No | Qty | Name                                               | Printable |
 | -- | --- | -------------------------------------------------- | --------- |
-| 1  | 1   | [Face] DragonFly BMS M - DragonFly_BMS_face.stl    | [Yes](stl/%5BFace%5D%20DragonFly%20BMS%20M%20-%20DragonFly_BMS_face.stl) |
-| 1  | 1   | [Face] DragonFly BMS M - DragonFly_BMS_support.stl | [Yes](stl/%5BFace%5D%20DragonFly%20BMS%20M%20-%20DragonFly_BMS_support.stl) |
+| 1  | 1   | [Face] eva-2.2-dragonfly-bms-face.stl    | [Yes](stl/eva-2.2-dragonfly-bms-face.stl) |
+| 1  | 1   | [Face] eva-2.2-dragonfly-bms-support.stl | [Yes](stl/eva-2.2-dragonfly-bms-support.stl) |
 
 
 ## Hardware Required 
