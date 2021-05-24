@@ -35,7 +35,7 @@ This mod replaces `back_corexy` and `top_bmg_mgn15`
 | 3  | 1   | dual_5015_back_v2.0                            | [Yes](stl/dual_5015_back_v2.0.stl) |
 | 4  | 1   | dual_5015_bottom_mgn12_wide                    | [Yes](stl/dual_5015_bottom_mgn12_wide.stl) |
 | 5  | 1   | dual_5015_bottom_mgn15_wide                    | [Yes](stl/dual_5015_bottom_mgn15_wide.stl) |
-| 6  | 1   | dual_5015_monster_horns_duct_v2.2              | [Yes](stl/dual_5015_monster_horns_duct_v2.2.stl) |
+| 6  | 1   | dual_5015_monster_horns_duct_v2.3              | [Yes](stl/dual_5015_monster_horns_duct_v2.3.stl) |
 | 7  | 1   | dual_5015_adxl_mount_v2.0                      | [Yes](stl/dual_5015_adxl_mount_v2.0.stl) |
 
 ## V1 BOM
@@ -61,7 +61,7 @@ Supports needed for V1, no supports needed for V2
 
 [Dual 5015 Part Fan MGN15 Wide Bottom](assets/dual_5015_bottom_mgn15_wide.stp)
 
-[Dual 5015 Part Fan Monster Horns Duct](assets/dual_5015_monster_horns_duct_v2.2.stp)
+[Dual 5015 Part Fan Monster Horns Duct](assets/dual_5015_monster_horns_duct_v2.3.stp)
 
 [Dual 5015 Part Fan ADXL Mount](assets/dual_5015_adxl_mount_v2.0.stp)
 

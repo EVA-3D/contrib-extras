@@ -25,7 +25,7 @@ Alternatively you can use the Occam's duct that i made, which also seem to perfo
 | 1  | 1   | M3 x 35mm                                      | No        |
 | 6  | 1   | 7530 EVA Back                                  | [Yes](stl/7530_fan_back_corexy.stl) |
 | 6  | 1   | 7530 MGN12 Bottom Wide                         | [Yes](stl/7530_fan_mgn12_bottom_wide.stl) |
-| 6  | 1   | SuperSniffles' Monster Duct v2.2               | [Yes](stl/dual_5015_monster_horns_duct_v2.2.stl) |
+| 6  | 1   | SuperSniffles' Monster Duct v2.3               | [Yes](stl/dual_5015_monster_horns_duct_v2.3.stl) |
 | 6  | 1   | Occam's Duct                                   | [Yes](stl/7530_fan_occams_duct.stl) |
 
 
