@@ -1,0 +1,36 @@
+---
+title: WichuR's Toolboard 1LC Horizontal Mount
+---
+
+> Created by: [Maciej Raczyński](https://github.com/wichur)
+
+EVA 2.2.0+ compatible mount for Duet Toolboard 1LC v1.1
+
+- Positioned horizontally, above print fan
+- Vertical post for cable strain relief
+- Zip tie holes (2.5mm) for cable management
+- Lid compatible with Toolboard 1LC v1.1
+- Place to support PTFE tube that helps to guide cables
+
+Assembly
+- Attaching Driver0 and IO requires to temporarily unscrew toolboard
+- Use shorter screws to attach board to support
+- Use longer screws to attach lid
+
+| No | Qty | Name                                           | Printable |
+| -- | --- | ---------------------------------------------- | --------- |
+| 1  | 2   | M3 x A mm                                      | No        |
+| 2  | 2   | M3 x B mm                                      | No        |
+| 3  | 4   | M3 Hex nuts                                    | No        |
+| 8  | 1   | Common Board Support                           | [Yes](stl/duet3_toolboard_1lc_common_support.stl) |
+| 9  | 1   | Lid for Toolboard 1LC v 1.1 (optional)         | [Yes](stl/duet3_toolboard_1lc_v11.stl)       |
+
+How to attach incoming cables (CAN, VIN, PTFE tube, nylon sleeve)
+![not_cube](assets/duet3_toolboard_1lc_cable_management_1.jpg)
+
+Sample cable management from appliances
+![not_cube](assets/duet3_toolboard_1lc_cable_management_2.jpg)
+![not_cube](assets/duet3_toolboard_1lc_cable_management_3.jpg)
+
+Print position
+![not_cube](assets/duet3_toolboard_1lc_print.png)
