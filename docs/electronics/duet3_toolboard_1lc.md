@@ -19,18 +19,19 @@ Assembly
 
 | No | Qty | Name                                           | Printable |
 | -- | --- | ---------------------------------------------- | --------- |
-| 1  | 2   | M3 x A mm                                      | No        |
-| 2  | 2   | M3 x B mm                                      | No        |
+| 1  | 2   | M3 x 8 mm                                      | No        |
+| 2  | 2   | M3 x 18 mm                                     | No        |
 | 3  | 4   | M3 Hex nuts                                    | No        |
+| 3  | 10  | >2.5mm zip ties (optional)                               | No        |
 | 8  | 1   | Common Board Support                           | [Yes](stl/duet3_toolboard_1lc_common_support.stl) |
 | 9  | 1   | Lid for Toolboard 1LC v 1.1 (optional)         | [Yes](stl/duet3_toolboard_1lc_v11.stl)       |
 
-How to attach incoming cables (CAN, VIN, PTFE tube, nylon sleeve)
+### How to attach incoming cables (CAN, VIN, PTFE tube, nylon sleeve)
 ![not_cube](assets/duet3_toolboard_1lc_cable_management_1.jpg)
 
-Sample cable management from appliances
+### Sample cable management from appliances
 ![not_cube](assets/duet3_toolboard_1lc_cable_management_2.jpg)
 ![not_cube](assets/duet3_toolboard_1lc_cable_management_3.jpg)
 
-Print position
+#### Print position
 ![not_cube](assets/duet3_toolboard_1lc_print.png)
