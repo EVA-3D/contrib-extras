@@ -52,3 +52,16 @@ You may try thinner heat inserts with 4.6mm OD. Don't use the popular 5.6mm-inse
 You may try thinner heat inserts with 4.6mm OD. Don't use the popular 5.6mm-inserts, the EVA-parts are too delicate for them.
 
 ![Dragon](assets/Dragon.JPG)
+
+## Carriage
+### BOM - Carriage:
+
+| No | Qty | Name                                           | Printable | Source
+| -- | --- | ---------------------------------------------- | --------- | -------
+| 1  | 1   | Universal plate-brass                        | [Yes](stl/universal_face-heat-inserts.stl) | [Onshape](https://cad.onshape.com/documents/4c736c112ec9ef45421e31de/w/c02a56f6bc77ee01b6f9c24f/e/2f8dfb691df35724bb714008)
+| 2  | 1   | Core XY backplate                            | [Yes](stl/back_corexy-heat-insert.stl)        |  [Onshape](https://cad.onshape.com/documents/31437c1daab8d8ec41ac3071/w/b1601359929e46e01b6f5ec3/e/7bfbcc4bf4555b088fce2dd3)
+| 3  | 10 | heat inserts brass M3, 5mm OD, 4mm length      | No        | [vonwange](https://vonwange.com/product/100-pcs-abs-m3-inserts/) or [AliExpress](https://aliexpress.com/item/4000232858343.html)_
+
+You may try thinner heat inserts with 4.6mm OD. Don't use the popular 5.6mm-inserts, the EVA-parts are too delicate for them.
+
+![Carriage](assets/Universal-faceplate.JPG)
