@@ -1,5 +1,5 @@
 ---
-title: top_gun_de's Mosquito Mount with Brass Inserts
+title: top_gun_de's Brass Inserts Remix
 ---
 
 ## Description:
@@ -22,13 +22,15 @@ The fan ducts are optional, you may continue to use your regular nut-mounted fan
 
 [Dragon](#dragon)
 
+[Carriage](#carriage)
+
 ## Compatible EVA versions
 
 EVA 2.1 or later
 
 ## Mosquito
 
-### BOM - Mosquito:
+### BOM - Mosquito
 
 | No | Qty | Name                                           | Printable | Source
 | -- | --- | ---------------------------------------------- | --------- | -------
@@ -42,7 +44,7 @@ You may try thinner heat inserts with 4.6mm OD. Don't use the popular 5.6mm-inse
 ![Mosquito](assets/Mosquito.JPG)
 
 ## Dragon
-### BOM - Dragon:
+### BOM - Dragon
 
 | No | Qty | Name                                           | Printable | Source
 | -- | --- | ---------------------------------------------- | --------- | -------
@@ -56,7 +58,7 @@ You may try thinner heat inserts with 4.6mm OD. Don't use the popular 5.6mm-inse
 ![Dragon](assets/Dragon.JPG)
 
 ## Carriage
-### BOM - Carriage:
+### BOM - Carriage
 
 | No | Qty | Name                                           | Printable | Source
 | -- | --- | ---------------------------------------------- | --------- | -------

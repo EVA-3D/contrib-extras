@@ -30,17 +30,17 @@ V1
 This mod replaces `back_corexy` and `top_bmg_mgn15`
 
 ## V2 BOM
-| No | Qty | Name                                           | Printable |
-| -- | --- | ---------------------------------------------- | --------- |
-| 1  | 2   | 5015 Blower Fan                                | No        |
-| 2  | ?   | Various M3 screws                              | No        |
-| 3  | 1   | dual_5015_back_v2.0                            | [Yes](stl/dual_5015_back_v2.0.stl) |
-| 4  | 1   | dual_5015_back_heat-inserts                    | [Yes](stl/dual_5015_back_heat-inserts.stl) |
-| 5  | 1   | dual_5015_bottom_mgn12_wide                    | [Yes](stl/dual_5015_bottom_mgn12_wide.stl) |
-| 6  | 1   | dual_5015_bottom_mgn15_wide                    | [Yes](stl/dual_5015_bottom_mgn15_wide.stl) |
-| 7  | 1   | dual_5015_monster_horns_duct_v2.3              | [Yes](stl/dual_5015_monster_horns_duct_v2.3.stl) |
-| 8  | 1   | dual_5015_monster_horns_duct_v.3-inserts       | [Yes](stl/dual_5015_monster_horns_duct_v.3-inserts.stl) |
-| 9  | 1   | dual_5015_adxl_mount_v2.0                      | [Yes](stl/dual_5015_adxl_mount_v2.0.stl) |
+| No | Qty | Name                                                       | Printable |
+| -- | --- | ---------------------------------------------------------- | --------- |
+| 1  | 2   | 5015 Blower Fan                                            | No        |
+| 2  | ?   | Various M3 screws                                          | No        |
+| 3  | 1   | dual_5015_back_v2.0                                        | [Yes](stl/dual_5015_back_v2.0.stl) |
+| 4  | 1   | dual_5015_back_v2.0_heat_inserts (Optional)                | [Yes](stl/dual_5015_back_v2.0_heat_inserts.stl) |
+| 5  | 1   | dual_5015_bottom_mgn12_wide                                | [Yes](stl/dual_5015_bottom_mgn12_wide.stl) |
+| 6  | 1   | dual_5015_bottom_mgn15_wide                                | [Yes](stl/dual_5015_bottom_mgn15_wide.stl) |
+| 7  | 1   | dual_5015_monster_horns_duct_v2.3                          | [Yes](stl/dual_5015_monster_horns_duct_v2.3.stl) |
+| 8  | 1   | dual_5015_monster_horns_duct_v2.3_inserts (Optional)       | [Yes](stl/dual_5015_monster_horns_duct_v2.3_heat_inserts.stl) |
+| 9  | 1   | dual_5015_adxl_mount_v2.0                                  | [Yes](stl/dual_5015_adxl_mount_v2.0.stl) |
 
 ## V1 BOM
 | No | Qty | Name                                           | Printable |
