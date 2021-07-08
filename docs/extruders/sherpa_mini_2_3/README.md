@@ -6,3 +6,15 @@ You will need
 * 4x M3x5 Heat Insert
 
 .Step and .stl included. You have to print the main mount upside down with supports for the slot holes
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
