@@ -8,13 +8,13 @@ You will need
 .Step and .stl included. You have to print the main mount upside down with supports for the slot holes
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/P-C-R/contrib-extras/main/docs/extruders/sherpa_mini_2_3/IMG/1.jpg">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/P-C-R/contrib-extras/main/docs/extruders/sherpa_mini_2_3/IMG/2.jpg">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/P-C-R/contrib-extras/main/docs/extruders/sherpa_mini_2_3/IMG/3.jpg">
 </p>
