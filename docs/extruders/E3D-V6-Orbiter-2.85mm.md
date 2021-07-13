@@ -6,7 +6,7 @@ title: Ruffle's E3D V6 & Orbiter 2.85mm Mod
 
 > Created by: Ruffle
 
-This is a modified EVA 2.4 top plate for the Orbiter F2.85 and an E3D V3 2.85mm Bowden Heatsink.
+This is a modified EVA 2.4 top plate for the Orbiter F2.85 and an E3D V6 2.85mm Bowden Heatsink.
 
 It will only work with the EVA 2.4 Universal front plate, or possibly later, as the notch is a different size to earlier versions and V2.4 added the additional screws to sandwich the the Universal front plate.
 
