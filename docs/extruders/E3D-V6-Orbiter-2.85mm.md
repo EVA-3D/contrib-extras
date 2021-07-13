@@ -39,5 +39,5 @@ LH = 0.2
 Nozzle = 0.4
 
 ## Step Files
-[E3D V6 Orbiter 2.85mm Top](assets/stl/E3D-V6-Orbiter-2.85mm.stp)
+[E3D V6 Orbiter 2.85mm Top](assets/E3D-V6-Orbiter-2.85mm.stp)
 
