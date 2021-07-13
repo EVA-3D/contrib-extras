@@ -17,8 +17,8 @@ The PTFE tube (6.35mm OD) should, in theory, be 37mm long if you can get it all 
 Note:  The F2.85 Orbiter has a different footprint to the V1.5.  Dr Robert Lorincz says that the V2 Orbiter for 1.75mm filament, due Aug '21, will have the same footprint as this F2.85 version.
 
 ![E3D V6 Orbiter 2.85mm](assets/E3D-V6-Orbiter-2.85mm.png)
-![E3D V6 Orbiter 2.85mm](assets/E3D-V6-Orbiter-2.85mm-2.png)
-![E3D V6 Orbiter 2.85mm](assets/E3D-V6-Orbiter-2.85mm-sub-assembly.png)
+![E3D V6 Orbiter 2.85mm on Mount](assets/E3D-V6-Orbiter-2.85mm-2.png)
+![E3D V6 Orbiter 2.85mm Sub Assembly](assets/E3D-V6-Orbiter-2.85mm-sub-assembly.png)
 
 ## Compatible EVA version
 2.4
