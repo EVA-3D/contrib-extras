@@ -27,16 +27,16 @@ v1.0 04/08/2021 - Initial Release
 ## BOM (Standard):
 | No | Qty | Name                                           | Printable |
 | -- | --- | ---------------------------------------------- | --------- |
-| 1  | 1   | Front Plate - Mellow Sunrise.stl                         | [Yes](stls/Front Plate - Mellow Sunrise.stl) |
-| 1  | 1   | Universal Probe Mount Adapter - Mellow Sunrise.stl                         | [Yes](stls/Universal Probe Mount Adapter - Mellow Sunrise.stl) |
-| 1  | 1   | Standard Duct - Mellow Sunrise.stl                         | [Yes](stls/Standard Duct - Mellow Sunrise.stl) |
+| 1  | 1   | Front Plate - Mellow Sunrise.stl                         | [Yes](stls/Front-Plate-Mellow-Sunrise.stl) |
+| 1  | 1   | Universal Probe Mount Adapter - Mellow Sunrise.stl                         | [Yes](stls/Universal-Probe-Mount-Adapter-Mellow-Sunrise.stl) |
+| 1  | 1   | Standard Duct - Mellow Sunrise.stl                         | [Yes](stls/Standard-Duct-Mellow-Sunrise.stl) |
 
 ## BOM (Volcano):
 | No | Qty | Name                                           | Printable |
 | -- | --- | ---------------------------------------------- | --------- |
-| 1  | 1   | Front Plate - Mellow Sunrise Volcano.stl                         | [Yes](stls/Front Plate - Mellow Sunrise Volcano.stl) |
-| 1  | 1   | Universal Probe mount adapter - Mellow Sunrise Volcano.stl                         | [Yes](stls/Universal Probe mount adapter - Mellow Sunrise Volcano.stl) |
-| 1  | 1   | Standard Duct - Mellow Sunrise.stl                         | [Yes](stls/Standard Duct - Mellow Sunrise.stl) |
+| 1  | 1   | Front Plate - Mellow Sunrise Volcano.stl                         | [Yes](stls/Front-Plate-Mellow-Sunrise-Volcano.stl) |
+| 1  | 1   | Universal Probe mount adapter - Mellow Sunrise Volcano.stl                         | [Yes](stls/Universal-Probe-mount-adapter-Mellow-Sunrise-Volcano.stl) |
+| 1  | 1   | Standard Duct - Mellow Sunrise.stl                         | [Yes](stls/Standard-Duct-Mellow-Sunrise.stl) |
 
 ## Additional files required
 
