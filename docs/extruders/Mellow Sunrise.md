@@ -7,11 +7,13 @@ title: Mellow Sunrise mount (Volcano + Normal)
 ## Description
 This is a replacement front plate for mounting the Mellow Sunrise extruder/hotend combo. Note all standard ducts will need extending to reach the nozzle.
 
-[Mellow Sunrise STEP file](stls/Assembly Mellow Sunrise.step)
-![Mellow Sunrise](assets/Mellow Sunrise.png)
+[Mellow Sunrise STEP file](stls/Assembly-Mellow-Sunrise.step)
 
-[Mellow Sunrise Volcano STEP file](stls/Assembly Mellow Sunrise Volcano.step)
-![Mellow Sunrise](assets/Mellow Sunrise Volcano.png)
+![Mellow Sunrise](assets/Mellow-Sunrise.png)
+
+[Mellow Sunrise Volcano STEP file](stls/Assembly-Mellow-Sunrise-Volcano.step)
+
+![Mellow Sunrise](assets/Mellow-Sunrise-Volcano.png)
 
 ## Compatible EVA version
 2.3.0
