@@ -28,6 +28,8 @@ The photos show an EVA printhead with adaptors for the Bondtech BMG extruder.
 
 In the pictures the adaptors are shown in blue, standard  EVA parts are shown in green and black, and MaybeCube parts are shown in red or orange.
 
+Assembly instructions are on [github](https://github.com/martinbudden/MaybeCube/tree/main/EVA).
+
 [Thingiverse link](https://www.thingiverse.com/thing:4912099)
 
 ## Compatible EVA version
