@@ -7,15 +7,15 @@ title: Mellow Sunrise mount (Volcano + Normal)
 ## Description
 This is a replacement front plate for mounting the Mellow Sunrise extruder/hotend combo. Note all standard ducts will need extending to reach the nozzle.
 
-[Mellow Sunrise STEP file](stls/Assembly-Mellow-Sunrise.step)
+[Mellow Sunrise STEP file](stls/Mellow-Sunrise.step)
 
 ![Mellow Sunrise](assets/Mellow-Sunrise.png)
 
-[Mellow Sunrise Volcano STEP file](stls/Assembly-Mellow-Sunrise-Volcano.step)
+[Mellow Sunrise Volcano STEP file](stls/Mellow-Sunrise-Volcano.step)
 
 ![Mellow Sunrise](assets/Mellow-Sunrise-Volcano.png)
 
-[Mellow Sunrise Volcano with SuperSniffels dual 5015 fan mod STEP file](stls/Assembly-Mellow-Sunrise-Volcano-Dual5015-Monsterduct.step)
+[Mellow Sunrise Volcano with SuperSniffels dual 5015 fan mod STEP file](stls/Mellow-Sunrise-Volcano-Dual5015-Monsterduct.step)
 
 ![Mellow Sunrise](assets/Mellow-Sunrise-Volcano-dual5015.png)
 
@@ -30,27 +30,29 @@ v1.0 04/08/2021 - Initial Release
 
 V1.1 09/08/2021 - Added files for monster duct + dual5015 compatibility
 
+v1.2 12/08/2021 - modified standard + volcano single 5015 fan versions to have the extended duct portion on the bottom part so that standard ducts can be used.
+
 ## BOM (Standard):
 | No | Qty | Name                                           | Printable |
 | -- | --- | ---------------------------------------------- | --------- |
-| 1  | 1   | Front Plate - Mellow Sunrise.stl                         | [Yes](stls/Front-Plate-Mellow-Sunrise.stl) |
-| 1  | 1   | Universal Probe Mount Adapter - Mellow Sunrise.stl                         | [Yes](stls/Universal-Probe-Mount-Adapter-Mellow-Sunrise.stl) |
-| 1  | 1   | Standard Duct - Mellow Sunrise.stl                         | [Yes](stls/Standard-Duct-Mellow-Sunrise.stl) |
+| 1  | 1   | Mellow-Sunrise-Front-Plate.stl                         | [Yes](stls/Mellow-Sunrise-Front-Plate.stl) |
+| 1  | 1   | Mellow-Sunrise-Universal-Probe-Mount-Adapter.stl                         | [Yes](stls/Mellow-Sunrise-Universal-Probe-Mount-Adapter.stl) |
+
 
 ## BOM (Volcano):
 | No | Qty | Name                                           | Printable |
 | -- | --- | ---------------------------------------------- | --------- |
-| 1  | 1   | Front Plate - Mellow Sunrise Volcano.stl                         | [Yes](stls/Front-Plate-Mellow-Sunrise-Volcano.stl) |
-| 1  | 1   | Universal Probe mount adapter - Mellow Sunrise Volcano.stl                         | [Yes](stls/Universal-Probe-mount-adapter-Mellow-Sunrise-Volcano.stl) |
-| 1  | 1   | Standard Duct - Mellow Sunrise.stl                         | [Yes](stls/Standard-Duct-Mellow-Sunrise.stl) |
+| 1  | 1   | Mellow-Sunrise-Front-Plate-Volcano.stl                         | [Yes](stls/Mellow-Sunrise-Front-Plate-Volcano.stl) |
+| 1  | 1   | Mellow-Sunrise-Universal-Probe-mount-adapter-Volcano.stl                         | [Yes](stls/Mellow-Sunrise-Universal-Probe-mount-adapter-Volcano.stl) |
+
 
 ## BOM (Volcano - wide duct):
 Take the duct + back plate from supersniffles mod folder
 | No | Qty | Name                                           | Printable |
 | -- | --- | ---------------------------------------------- | --------- |
-| 1  | 1   | Front Plate - Mellow Sunrise Volcano.stl                         | [Yes](stls/Front-Plate-Mellow-Sunrise-Volcano.stl) |
-| 1  | 1   | Universal Probe mount adapter - Mellow Sunrise Volcano.stl                         | [Yes](stls/Universal-Probe-mount-adapter-Mellow-Sunrise-Volcano.stl) |
-| 1  | 1   | Bottom wide duct extended                         | [Yes](stls/Bottom-Wide-Duct-Extended.stl) |
+| 1  | 1   | Mellow-Sunrise-Front-Plate-Volcano.stl                         | [Yes](stls/Mellow-Sunrise-Front-Plate-Volcano.stl) |
+| 1  | 1   | Mellow-Sunrise-Universal-Probe-mount-adapter-Volcano.stl                         | [Yes](stls/Mellow-Sunrise-Universal-Probe-mount-adapter-Volcano.stl) |
+| 1  | 1   | Mellow-Sunrise-Bottom-Wide-Duct-Extended.stl                         | [Yes](stls/Mellow-Sunrise-Bottom-Wide-Duct-Extended.stl) |
 
 ## Additional files required
 
