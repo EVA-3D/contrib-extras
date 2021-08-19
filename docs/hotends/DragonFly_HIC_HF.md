@@ -5,7 +5,7 @@ title: TheMacBoy's DragonFly HIC HF Hotend Mount
 > Created by: [TheMacBoy](https://github.com/themacboy)
 
 ## Description
-This is a ![DragonFly HIC HF](https://www.phaetus.com/dragonfly-hf-hic/) mount for the Phaetus hotend.
+This is a [DragonFly HIC HF](https://www.phaetus.com/dragonfly-hf-hic) mount for the Phaetus hotend.
 
 ![DragonFly HIC HF](assets/DragonFly-HIC-perspective.JPG)
 
@@ -35,7 +35,7 @@ v1.0 12/05/2021 TheMacBoy Release
 | No | Qty | Name                                               | Printable |
 | -- | --- | -------------------------------------------------- | --------- |
 | 1  | 1   | [Face] eva-2.3-dragonfly-HIC-face.stl    | [Yes](stl/eva-2.3-dragonfly-HIC-face.stl ) |
-| 1  | 1   | [Surport] eva-2.3-dragonfly-HIC-support.stl | [Yes](stl/eva-2.3-dragonfly-HIC-support.stl) |
+| 1  | 1   | [Support] eva-2.3-dragonfly-HIC-support.stl | [Yes](stl/eva-2.3-dragonfly-HIC-support.stl) |
 
 
 ## Hardware Required 
