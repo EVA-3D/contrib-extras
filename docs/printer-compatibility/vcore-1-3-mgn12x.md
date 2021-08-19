@@ -1,11 +1,11 @@
 ---
-title: vCore 1.3 mgn12C or mgn12H
+title: V-Core Pro 1.3 MGN12C or MGN12H
 ---
 
 > Created by: [EOliveira](https://github.com/EduardoOliveira)
 
 ## Description
-An implementation of the vCore 1.3 kinematic design using mgn12C or mgn12H
+An implementation of the V-Core Pro 1.3 kinematic design using MGN12C or MGN12H
 
 ![1.3bed](assets/vcore-1-3-mgn12x-bed.png)
 
@@ -22,4 +22,4 @@ Any
 
 
 ## Additional files required
-Get the Z motor mounts and cable strain releave from [V-Core-Pro-1.3 github](https://github.com/Rat-Rig/V-Core-Pro-1.3/tree/main/cad/01_essentials/Zaxis/STL).
+Get the Z motor mounts and cable strain relief from [V-Core-Pro-1.3 github](https://github.com/Rat-Rig/V-Core-Pro-1.3/tree/main/cad/01_essentials/Zaxis/STL).

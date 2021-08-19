@@ -21,8 +21,8 @@ v1.0 31/03/2021 Boont Release
 ## BOM:
 | No | Qty | Name                                           | Printable |
 | -- | --- | ---------------------------------------------- | --------- |
-| 1  | 1   | sherpa-mini-eva2-mgn12.stl                         | [Yes](stl/sherpa-mini-eva2-mgn12.stl) |
-| 1  | 1   | sherpa-mini-eva2-mgn15c.stl                         | [Yes](stl/sherpa-mini-eva2-mgn15c.stl) |
+| 1  | 1   | sherpa-mini-eva2-mgn12.stl                         | [Yes](stls/sherpa-mini-eva2-mgn12.stl) |
+| 1  | 1   | sherpa-mini-eva2-mgn15c.stl                         | [Yes](stls/sherpa-mini-eva2-mgn15c.stl) |
 
 ## Additional files required
 
