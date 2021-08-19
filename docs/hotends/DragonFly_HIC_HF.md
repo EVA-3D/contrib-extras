@@ -42,3 +42,4 @@ v1.0 12/05/2021 TheMacBoy Release
 Standard EVA
 
 ## To Do 
+Check if the hotend works at high speeds (+ 200 mm / s), I have currently removed some tolerances on the lower support to avoid vibrations.
