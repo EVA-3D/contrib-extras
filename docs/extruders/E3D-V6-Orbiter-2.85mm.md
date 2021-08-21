@@ -27,11 +27,11 @@ Note:  The F2.85 Orbiter has a different footprint to the V1.5.  Dr Robert Lorin
 This mod replaces `top_orbiter_mgn12`
 
 ## BOM
-| No | Qty | Name                                                       | Printable |
-| -- | --- | ---------------------------------------------------------- | --------- |
-| 1  | 2   | DIN 7380 M3x8 Button Head screws                           | No        |
-| 2  | 2   | Ruthex RX-M3x5.7 Heatset Inserts                           | No        |
-| 3  | 1   | E3D V6 Orbiter 2.85mm Top                                  | [Yes](stl/E3D-V6-Orbiter-2.85mm.stl) |
+| No  | Qty | Name                             | Printable                             |
+| --- | --- | -------------------------------- | ------------------------------------- |
+| 1   | 2   | DIN 7380 M3x8 Button Head screws | No                                    |
+| 2   | 2   | Ruthex RX-M3x5.7 Heatset Inserts | No                                    |
+| 3   | 1   | E3D V6 Orbiter 2.85mm Top        | [Yes](stls/E3D-V6-Orbiter-2.85mm.stl) |
 
 ## Print instructions
 LH = 0.2
