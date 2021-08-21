@@ -16,7 +16,7 @@ It's essentially a mix between Hemera faceplate and Boont's Ender 5/5+ mod.
 ## Compatible EVA version
 2.3+?
 
-## Changelog:
+## Changelog
 v1.0 26/06/2021 Initial release
 
 ## Related EVA parts
@@ -27,9 +27,9 @@ mod for the Ender 5 flat back. Like his, this change should be compatible with
 standard CoreXY backplate.
 
 ## BOM
-| No | Qty | Name                                           | Printable |
-| -- | --- | ---------------------------------------------- | --------- |
-| 1  | 1   | ender-5+-hemera-face                           | [Yes](stl/ender-5+-hemera-face.stl) |
+| No  | Qty | Name                 | Printable                           |
+| --- | --- | -------------------- | ----------------------------------- |
+| 1   | 1   | ender-5+-hemera-face | [Yes](stl/ender-5+-hemera-face.stl) |
 
 ## Additional files required
 Get the belt grabbers from the original [EVA stls](https://main.eva-3d.page).
