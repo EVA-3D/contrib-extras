@@ -33,28 +33,27 @@ V1.1 09/08/2021 - Added files for monster duct + dual5015 compatibility
 v1.2 12/08/2021 - modified standard + volcano single 5015 fan versions to have the extended duct portion on the bottom part so that standard ducts can be used.
 
 ## BOM (Standard):
-| No | Qty | Name                                           | Printable |
-| -- | --- | ---------------------------------------------- | --------- |
-| 1  | 1   | Mellow-Sunrise-Front-Plate.stl                         | [Yes](stls/Mellow-Sunrise-Front-Plate.stl) |
-| 1  | 1   | Mellow-Sunrise-Universal-Probe-Mount-Adapter.stl                         | [Yes](stls/Mellow-Sunrise-Universal-Probe-Mount-Adapter.stl) |
+| No  | Qty | Name                                             | Printable                                                    |
+| --- | --- | ------------------------------------------------ | ------------------------------------------------------------ |
+| 1   | 1   | Mellow-Sunrise-Front-Plate.stl                   | [Yes](stls/Mellow-Sunrise-Front-Plate.stl)                   |
+| 1   | 1   | Mellow-Sunrise-Universal-Probe-Mount-Adapter.stl | [Yes](stls/Mellow-Sunrise-Universal-Probe-Mount-Adapter.stl) |
 
 
 ## BOM (Volcano):
-| No | Qty | Name                                           | Printable |
-| -- | --- | ---------------------------------------------- | --------- |
-| 1  | 1   | Mellow-Sunrise-Front-Plate-Volcano.stl                         | [Yes](stls/Mellow-Sunrise-Front-Plate-Volcano.stl) |
-| 1  | 1   | Mellow-Sunrise-Universal-Probe-mount-adapter-Volcano.stl                         | [Yes](stls/Mellow-Sunrise-Universal-Probe-mount-adapter-Volcano.stl) |
+| No  | Qty | Name                                                     | Printable                                                            |
+| --- | --- | -------------------------------------------------------- | -------------------------------------------------------------------- |
+| 1   | 1   | Mellow-Sunrise-Front-Plate-Volcano.stl                   | [Yes](stls/Mellow-Sunrise-Front-Plate-Volcano.stl)                   |
+| 1   | 1   | Mellow-Sunrise-Universal-Probe-Mount-Adapter-Volcano.stl | [Yes](stls/Mellow-Sunrise-Universal-Probe-Mount-Adapter-Volcano.stl) |
 
 
 ## BOM (Volcano - wide duct):
 Take the duct + back plate from supersniffles mod folder
-| No | Qty | Name                                           | Printable |
-| -- | --- | ---------------------------------------------- | --------- |
-| 1  | 1   | Mellow-Sunrise-Front-Plate-Volcano.stl                         | [Yes](stls/Mellow-Sunrise-Front-Plate-Volcano.stl) |
-| 1  | 1   | Mellow-Sunrise-Universal-Probe-mount-adapter-Volcano.stl                         | [Yes](stls/Mellow-Sunrise-Universal-Probe-mount-adapter-Volcano.stl) |
-| 1  | 1   | Mellow-Sunrise-Bottom-Wide-Duct-Extended.stl                         | [Yes](stls/Mellow-Sunrise-Bottom-Wide-Duct-Extended.stl) |
 
-## Additional files required
+| No  | Qty | Name                                                     | Printable                                                            |
+| --- | --- | -------------------------------------------------------- | -------------------------------------------------------------------- |
+| 1   | 1   | Mellow-Sunrise-Front-Plate-Volcano.stl                   | [Yes](stls/Mellow-Sunrise-Front-Plate-Volcano.stl)                   |
+| 1   | 1   | Mellow-Sunrise-Universal-Probe-Mount-Adapter-Volcano.stl | [Yes](stls/Mellow-Sunrise-Universal-Probe-Mount-Adapter-Volcano.stl) |
+| 1   | 1   | Mellow-Sunrise-Bottom-Wide-Duct-Extended.stl             | [Yes](stls/Mellow-Sunrise-Bottom-Wide-Duct-Extended.stl)             |
 
 ## Hardware Required 
 Standard EVA
