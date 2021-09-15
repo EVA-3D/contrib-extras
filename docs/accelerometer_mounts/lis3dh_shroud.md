@@ -10,7 +10,7 @@ The LIS3DH (and S-variant) are supported as of Duet3D's RepRapFirmware release 3
 This model is a quick and dirty tinkercad remix from [Oranginator's ADXL345](https://github.com/Oranginator) mount.
 Hopefully I one day get around to model proper one :).
 
-![Shufflez's LIS3DH shroud mount](assets/lis3dh_shroud.jpg)
+![Shufflez's LIS3DH shroud mount](assets/lis3dh_shroud.png)
 
 
 ## BOM
