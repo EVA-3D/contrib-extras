@@ -6,6 +6,7 @@ title: Shufflez's LIS3DH shroud mount
 
 ## Description
 Universal Accelerometer Mount for LIS3DH ([Adafruit STEMMA-formfactor](https://www.adafruit.com/product/2809) mounted at the EVA-shroud.
+Mounting hole spacing is 20.32mm (0.8") as per [datasheet](https://learn.adafruit.com/adafruit-lis3dh-triple-axis-accelerometer-breakout/downloads).
 The LIS3DH (and S-variant) are supported as of Duet3D's RepRapFirmware release 3.4.0b2.
 
 This model is a quick and dirty tinkercad remix from [Oranginator's ADXL345](https://github.com/Oranginator) mount.
