@@ -63,12 +63,6 @@ The picture are representative samples to show which holes get inserts.
 
 | No | Qty | Name                                           | Printable | Source
 | -- | --- | ---------------------------------------------- | --------- | -------
-<<<<<<< HEAD
-| 1  | 1   | Mosquito face                                  | [Yes](stl/Mosquito-face-inserts-1.2.stl) |
-| 2  | 1   | Mosquito support                               | [Yes](stl/Mosquito-support-inserts-1.2.stl)        |
-| 3  | 1   | Fan-duct Horn 2.1 wide/high                    | [Yes](stl/Duct-2.1-straight-wide-high-inserts.stl)       |
-| 4  | 8   | heat inserts brass M3, 5mm OD, 4mm length      | No        | [vonwange](https://vonwange.com/product/100-pcs-abs-m3-inserts/) or [AliExpress](https://aliexpress.com/item/4000232858343.html)_
-=======
 | 1a | 1   | Orbiter 1.5 top plate                          | [Yes](stl/top_orbiter_mgn12-2.4.1-inserts.stl) |
 | 1b | 1   | Orbiter 2.0 top plate                          | [Yes](stl/top_orbiter_2_0_mgn12-2.4.1-inserts.stl)        |
 | 1c | 1   | Sherpa top plate                               | [Yes](stl/top_sherpa_mgn12-2.4.1-inserts.stl)        |
@@ -78,7 +72,6 @@ You find the Orbiter plate above in the picture of the carriage.
 
 ![Sherpa](assets/sherpa.jpg)
 
->>>>>>> dd4e8894924a5dcb17026165deae095aa66cd5e5
 
 ## Hotends
 
@@ -101,18 +94,9 @@ You find the Orbiter plate above in the picture of the carriage.
 
 | No | Qty | Name                                           | Printable | Source
 | -- | --- | ---------------------------------------------- | --------- | -------
-<<<<<<< HEAD
-| 1  | 1   | Dragon face                                  | [Yes](stl/Dragon-face-insert-1.2.stl) |
-| 2  | 1   | Dragon support                               | [Yes](stl/Dragon-support-insert-1.2.stl)        |
-| 3  | 1   | Fan-duct Horn 2.1 straight                    | [Yes](stl/Duct-straight-insert.stl)       |
-| 4  | 8   | heat inserts brass M3, 5mm OD, 4mm length      | No        | [vonwange](https://vonwange.com/product/100-pcs-abs-m3-inserts/) or [AliExpress](https://aliexpress.com/item/4000232858343.html)_
-
-You may try thinner heat inserts with 4.6mm OD. Don't use the popular 5.6mm-inserts, the EVA-parts are too delicate for them.
-=======
 | 1  | 1   | Dragon face                                  | [Yes](stl/dragon_face-2.4.1-inserts.stl) |
 | 2  | 1   | Dragon support                               | [Yes](stl/v6_support-2.4.1-insert.stl)        |
 | 3  | 6   | heat inserts brass M3 x D4 x L4              | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
->>>>>>> dd4e8894924a5dcb17026165deae095aa66cd5e5
 
 ![Dragon](assets/Dragon.JPG)
 
