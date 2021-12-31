@@ -24,7 +24,7 @@ V1
 ![Dual 5015 Part Fan Mod v1](assets/dual_5015_part_fan.png)
 
 ## Compatible EVA version
-2.0.0 --> 2.2.1
+2.0.0 --> 2.4.1
 
 ## Related EVA Parts
 This mod replaces `back_corexy` and `top_bmg_mgn15`
