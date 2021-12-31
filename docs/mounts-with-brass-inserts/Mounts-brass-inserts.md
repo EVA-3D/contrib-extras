@@ -37,7 +37,7 @@ EVA 2.4.0 or later
 
 | No | Qty | Name                                           | Printable | Source
 | -- | --- | ---------------------------------------------- | --------- | -------
-| 1  | 1   | Universal plate-brass                        | [Yes](stl/universal_face-2.4.1-inserts) | [Onshape](https://cad.onshape.com/documents/74778ed34247d7556e100400/w/a58d330b6eac41d3ee1d6257/e/2d71e9f03f608830dc147b9e)
+| 1  | 1   | Universal plate-brass                        | [Yes](stl/universal_face-2.4.1-inserts.stl) | [Onshape](https://cad.onshape.com/documents/74778ed34247d7556e100400/w/a58d330b6eac41d3ee1d6257/e/2d71e9f03f608830dc147b9e)
 | 2  | 1   | backplate Core XY                            | [Yes](stl/back_corexy-2.4.1-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/74778ed34247d7556e100400/w/a58d330b6eac41d3ee1d6257/e/5f6109f91396259629d149cf)
 | 2a | 1   | backplate Cartesian                          | [Yes](stl/back_cartesian-2.4.1-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/94ffc61ea8de2e8b4d175cb5/w/45370a8d35a588c223676b4b/e/29da292ee8a01c0ce953947a)
 | 2b | 1   | backplate CoreXY-dual 5015 Supersniffles     | [Yes](stl/dual_5015_back_v3_heat_inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/79d9ad219cc5cc9ce0dcf704/w/b53269836ac593db847c52c7/e/6edbe9540efb021b6a6e376c)
@@ -57,7 +57,7 @@ The picture are representative samples to show which holes get inserts.
 
 ## Extruders
 
-## Orbiter 1.5, 2.0, Sherpa
+### Orbiter 1.5, 2.0, Sherpa
 
 [OnShape](https://cad.onshape.com/documents/081c89accea9ca68cd29ad9c/w/f873c4d34a84bfc1296409af/e/5655d7163b5af97b4bedc0b3)
 
@@ -85,7 +85,7 @@ You find the Orbiter plate above in the picture of the carriage.
 | 2  | 1   | Mosquito support                               | [Yes](stl/mosquito_support-2.4.1-insert.stl)        |
 | 3  | 6   | heat inserts brass M3 x D4 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
 
-![Mosquito](assets/mosquito.jpg)
+![Mosquito](assets/Mosquito.JPG)
 
 ## Dragon
 ### BOM - Dragon
