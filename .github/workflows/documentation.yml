@@ -6,6 +6,7 @@ on:
 
 env:
   PYTHON_VERSION: 3.10.1
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
 jobs:
   documentation:
@@ -40,7 +41,9 @@ jobs:
         run: poetry install --no-interaction --no-root
 
       - name: Install Python dependencies
-        run: poetry install --no-interaction
+        run: |
+          poetry install --no-interaction
+          poetry run pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
 
       - name: Deploy documentation
         run: |

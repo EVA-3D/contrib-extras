@@ -4,7 +4,7 @@ site_author: "Paweł Kucmus"
 site_description: "EVA 2 repository for the community to share their parts"
 edit_uri: ""
 
-copyright: Copyright &copy; 2020 Paweł Kucmus
+copyright: Copyright &copy; 2022 Paweł Kucmus
 
 repo_name: EVA-3D / contrib-extras
 repo_url: https://github.com/EVA-3D/contrib-extras
@@ -30,6 +30,7 @@ plugins:
   - search
   - minify:
       minify_html: true
+  - eva-contrib-plugin
 
 extra_css:
   - css/extra.css
