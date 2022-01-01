@@ -48,7 +48,7 @@ EVA 2.4.0 or later
 | 4c | 1   | Tri-horn fan duct wide low                   | [Yes](stl/TriHorn Duct Wide Low-2.4.1-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/0032726621935a272d71ecdd/w/8c7ff9e179be83096c43302e/e/2895bb5dddef3b905fc26f3c?configuration=List_LoFJO9VgV4Gpxp%3DDefault%3BList_ay6IJmGiZEoJuq%3DDefault&renderMode=0&uiState=61c9daeb5ae6fe74d6b1218e)
 | 4d | 1   | Dual 5015 Monster horn duct Supersniffles    | [Yes](stl/dual_5015_monster_horns_duct_v2.3_heat_inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/9c252f9471d1d23ee56d6b70/w/959fe6d1b6f12c8dfe326720/e/18901272a3158b3c621a46d2)
 | 4e | 1   | Dual 5015 Volcano/Rapido UHF duct (Tobi)     | [Yes](stl/horn-rapido-uhf-2.4.1-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/d0c8871ffd12a03b94cb6b30/w/60becf0a1f7f2dc8485e1bea/e/336a4f443bbbc477c9fbf4a0)
-| 5  | ##  | heat inserts brass M3 x D4 x L4              | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)
+| 5  | ##  | heat inserts brass M3 x D4.6 x L4              | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)
 
 ![Carriage](assets/eva-core.jpg)
 
@@ -66,7 +66,7 @@ The picture are representative samples to show which holes get inserts.
 | 1a | 1   | Orbiter 1.5 top plate                          | [Yes](stl/top_orbiter_mgn12-2.4.1-inserts.stl) |
 | 1b | 1   | Orbiter 2.0 top plate                          | [Yes](stl/top_orbiter_2_0_mgn12-2.4.1-inserts.stl)        |
 | 1c | 1   | Sherpa top plate                               | [Yes](stl/top_sherpa_mgn12-2.4.1-inserts.stl)        |
-| 2  | 2-3 | heat inserts brass M3 x D4 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
+| 2  | 2-3 | heat inserts brass M3 x D4.6 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
 
 You find the Orbiter plate above in the picture of the carriage.
 
@@ -81,9 +81,9 @@ You find the Orbiter plate above in the picture of the carriage.
 
 | No | Qty | Name                                           | Printable | Source
 | -- | --- | ---------------------------------------------- | --------- | -------
-| 1  | 1   | Mosquito face                                  | [Yes](stl/mosquito_face-2.4.1-insert.stl) |
+| 1  | 1   | Mosquito face                                  | [Yes](stl/mosquito_face-2.4.1-r2-insert.stl) |
 | 2  | 1   | Mosquito support                               | [Yes](stl/mosquito_support-2.4.1-insert.stl)        |
-| 3  | 6   | heat inserts brass M3 x D4 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
+| 3  | 6   | heat inserts brass M3 x D4.6 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
 
 ![Mosquito](assets/Mosquito.JPG)
 
@@ -96,7 +96,7 @@ You find the Orbiter plate above in the picture of the carriage.
 | -- | --- | ---------------------------------------------- | --------- | -------
 | 1  | 1   | Dragon face                                  | [Yes](stl/dragon_face-2.4.1-inserts.stl) |
 | 2  | 1   | Dragon support                               | [Yes](stl/v6_support-2.4.1-insert.stl)        |
-| 3  | 6   | heat inserts brass M3 x D4 x L4              | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
+| 3  | 6   | heat inserts brass M3 x D4.6 x L4              | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
 
 ![Dragon](assets/Dragon.JPG)
 
@@ -109,7 +109,7 @@ You find the Orbiter plate above in the picture of the carriage.
 | -- | --- | ---------------------------------------------- | --------- | -------
 | 1  | 1   | Dragonfly BMO face                             | [Yes](stl/bmo_face-2.4.1-inserts.stl) |
 | 2  | 1   | Dragonfly BMO support                          | [Yes](stl/bmo_support-2.4.1-inserts.stl)        |
-| 3  | 6   | heat inserts brass M3 x D4 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
+| 3  | 6   | heat inserts brass M3 x D4.6 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
 
 Sorry no picture, refer to the Dragon photo
 
@@ -120,7 +120,7 @@ Sorry no picture, refer to the Dragon photo
 | No | Qty | Name                                           | Printable | Source
 | -- | --- | ---------------------------------------------- | --------- | -------
 | 1  | 1   | Rapido face (no support required)              | [Yes](stl/face_rapido-2.4.1-inserts.stl) |
-| 2  | 6   | heat inserts brass M3 x D4 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
+| 2  | 6   | heat inserts brass M3 x D4.6 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
 
 Note: The Rapido in HF configuration (V6 nozzles) can use all regular fan ducts, i.e. Tri-horn-duct. For the UHF-configuration, use the longer Volcano/Rapido duct from Tobi (see above)
 
@@ -133,7 +133,7 @@ Note: The Rapido in HF configuration (V6 nozzles) can use all regular fan ducts,
 | No | Qty | Name                                           | Printable | Source
 | -- | --- | ---------------------------------------------- | --------- | -------
 | 1  | 1   | Nova face (no support required)                | [Yes](stl/nova_face-2.4.1-inserts.stl) |
-| 2  | 2   | heat inserts brass M3 x D4 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
+| 2  | 2   | heat inserts brass M3 x D4.6 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
 
 ![Nova](assets/nova.jpg)
 
