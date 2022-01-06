@@ -13,7 +13,7 @@ This is a replacement top plate to support the Annex Engineering Sherpa Mini RC1
 ![pcr-sherpa-mini-3](assets/pcr-sherpa-mini-3.jpg)
 
 ## Compatible EVA version
-2.3.0
+2.4.0 (unreleased, get the universal plate from the EVA Onshape document)
 
 ## Printing instructions
 You have to print the main mount upside down with supports for the slot holes
