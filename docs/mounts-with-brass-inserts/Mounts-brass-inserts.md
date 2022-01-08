@@ -96,7 +96,7 @@ You find the Orbiter plate above in the picture of the carriage.
 
 | No | Qty | Name                                           | Printable | Source
 | -- | --- | ---------------------------------------------- | --------- | -------
-| 1  | 1   | Dragon face                                  | [Yes](stl/dragon_face-2.4.1-inserts.stl) |
+| 1  | 1   | Dragon face                                  | [Yes](stl/dragon_face-2.4.2-inserts.stl) |
 | 2  | 1   | Dragon support                               | [Yes](stl/v6_support-2.4.1-insert.stl)        |
 | 3  | 6   | heat inserts brass M3 x D4.6 x L4              | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
 
