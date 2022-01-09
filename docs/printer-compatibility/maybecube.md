@@ -40,12 +40,12 @@ Assembly instructions are on [github](https://github.com/martinbudden/MaybeCube/
 
 | No | Qty | Name                                           | Printable |
 | -- | --- | ---------------------------------------------- | --------- |
-| 1  | 1   | MC bottom adaptor                              | [Yes](EVA_MC_bottom_mgn12_short_duct.stl) |
-| 2  | .   | MC top Bondtech BMG adaptor                    | [Yes](EVA_MC_top_bmg_mgn12.stl) |
-| 3  | .   | MC top Bondtech LGX adaptor                    | [Yes](EVA_MC_top_lgx_mgn12_a.stl) |
-| 4  | .   | MC top Bowden adaptor                          | [Yes](EVA_MC_top_mgn12.stl) |
-| 5  | .   | MC top Orbiter adaptor                         | [Yes](EVA_MC_top_orbiter_mgn12.stl) |
-| 6  | .   | MC top E3D Titan adaptor                       | [Yes](EVA_MC_top_titan_mgn12.stl) |
+| 1  | 1   | MC bottom adaptor                              | [Yes](stl/EVA_MC_bottom_mgn12_short_duct.stl) |
+| 2  | .   | MC top Bondtech BMG adaptor                    | [Yes](stl/EVA_MC_top_bmg_mgn12.stl) |
+| 3  | .   | MC top Bondtech LGX adaptor                    | [Yes](stl/EVA_MC_top_lgx_mgn12_a.stl) |
+| 4  | .   | MC top Bowden adaptor                          | [Yes](stl/EVA_MC_top_mgn12.stl) |
+| 5  | .   | MC top Orbiter adaptor                         | [Yes](stl/EVA_MC_top_orbiter_mgn12.stl) |
+| 6  | .   | MC top E3D Titan adaptor                       | [Yes](stl/EVA_MC_top_titan_mgn12.stl) |
 | 7  | 8   | M3 caphead bolt x 10mm                         | No        |
 
 Note that the bolts self-tap into adaptor parts.
