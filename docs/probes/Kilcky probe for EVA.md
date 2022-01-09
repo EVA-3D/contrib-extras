@@ -48,8 +48,8 @@ v0.5 30/12/2021 TheMacBoy Release
 
 
 ## BOM screws:
-| Qty | Name                                               | Observations |
-| -- | --- | -------------------------------------------------- | --------- |
+| Qty | Name                                                    | Observations |
+| --- | ------------------------------------------------------- | ------------ |
 | 2 | M3 20mm | (hex head) |
 | 1 | M4 20mm | (countersunk head) |
 | 1 | M4 10mm | (countersunk head) |
