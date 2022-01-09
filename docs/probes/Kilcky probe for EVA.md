@@ -36,8 +36,20 @@ universal_face
 ## Source FreeCad files
 Ender 5 Plus arm support inside assets folder
 
-## BOM
+
+## Changelog
+v0.5 30/12/2021 TheMacBoy Release
+
+## BOM Parts:
+| No | Qty | Name                                               | Printable |
+| -- | --- | -------------------------------------------------- | --------- |
+| 1  | 1   | [Face] Eva-2.2-Klicky probe mount    | [Yes](stl/eva-2.2-klicky_probe_mount.stl) |
+| 1  | 1   | [Face] Ender 5 Plus support arm | [Yes](stl/ender_5_plus-arm-body.stl) |
+
+
+## BOM screws:
 | Qty | Name                                               | Observations |
+| -- | --- | -------------------------------------------------- | --------- |
 | 2 | M3 20mm | (hex head) |
 | 1 | M4 20mm | (countersunk head) |
 | 1 | M4 10mm | (countersunk head) |
@@ -46,16 +58,6 @@ Ender 5 Plus arm support inside assets folder
 | 2 | M3 nuts | |
 | 2 | M2 10mm | |
 | 2 | M3 inserts x D5 x L5 | |
-
-## Changelog
-v0.5 30/12/2021 TheMacBoy Release
-
-## BOM:
-| No | Qty | Name                                               | Printable |
-| -- | --- | -------------------------------------------------- | --------- |
-| 1  | 1   | [Face] Eva-2.2-Klicky probe mount    | [Yes](stl/eva-2.2-klicky_probe_mount.stl) |
-| 1  | 1   | [Face] Ender 5 Plus support arm | [Yes](stl/ender_5_plus-arm-body.stl) |
-
 
 ## Hardware Required 
 Standard EVA
