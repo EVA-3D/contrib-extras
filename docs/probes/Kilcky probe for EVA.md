@@ -36,6 +36,16 @@ universal_face
 ## Source FreeCad files
 Ender 5 Plus arm support inside assets folder
 
+## BOM
+2 x M3 20mm (hex head)
+1 x M4 20mm (countersunk head)
+1 x M4 10mm (countersunk head)
+2 x M4 T-Nut
+2 x M3 12mm (hex head)
+2 x M3 nuts
+2 x M2 10mm
+2 x M3 inserts x D5 x L5
+
 ## Changelog
 v0.5 30/12/2021 TheMacBoy Release
 
