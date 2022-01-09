@@ -56,7 +56,7 @@ v0.5 30/12/2021 TheMacBoy Release
 | 2 | M4 T-Nut | |
 | 2 | M3 12mm | (hex head) |
 | 2 | M3 nuts | |
-| 2 | M2 10mm | |
+| 2 | M2 10mm | carpentry type |
 | 2 | M3 inserts x D5 x L5 | |
 
 ## Hardware Required 
