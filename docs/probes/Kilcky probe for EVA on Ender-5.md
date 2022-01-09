@@ -39,12 +39,14 @@ Ender 5 Plus arm support inside assets folder
 
 ## Changelog
 v0.5 30/12/2021 TheMacBoy Release
+v0.6 09/01/2021 Klicky probe modified the back size of the frame support, new version v.2
 
 ## BOM Parts:
 | No | Qty | Name                                               | Printable |
 | -- | --- | -------------------------------------------------- | --------- |
 | 1  | 1   | [Face] Eva-2.2-Klicky probe mount    | [Yes](stl/eva-2.2-klicky_probe_mount.stl) |
-| 1  | 1   | [Face] Ender 5 Plus support arm | [Yes](stl/ender_5_plus-arm-body.stl) |
+| 1  | 1   | [Face] Ender 5 Plus support arm v.1 | [Yes](stl/ender_5_plus-arm v.1-body.stl) |
+| 1  | 1   | [Face] Ender 5 Plus support arm v.2 | [Yes](stl/ender_5_plus-arm v.2-body.stl) |
 
 
 ## BOM screws:
