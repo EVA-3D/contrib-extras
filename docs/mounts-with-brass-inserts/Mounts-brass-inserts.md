@@ -57,6 +57,7 @@ EVA 2.4.0 or later
 
 The picture are representative samples to show which holes get inserts.
 
+A note on the Bondtech LGX lite extruder: It has integrated inserts, there are no hex nuts on the mounting plate. So just use the regular EVA 2.4.2 part.
 
 ## Extruders
 
