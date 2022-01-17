@@ -1,4 +1,4 @@
----
+2---
 title: top_gun_de's Brass Inserts Remix
 ---
 
@@ -139,3 +139,15 @@ Note: The Rapido in HF configuration (V6 nozzles) can use all regular fan ducts,
 
 ![Nova](assets/nova.jpg)
 
+## V6
+### BOM - V6
+
+By Jevermeister#3335 @ Discord
+
+| No | Qty | Name                                           | Printable | Source
+| -- | --- | ---------------------------------------------- | --------- | -------
+| 1  | 1   | Dragon face                                  | [Yes](stl/v6_face-2.4.1-inserts.stl) |
+| 2  | 1   | V6 support                                   | [Yes](stl/v6_support-2.4.1-insert.stl)        |
+| 3  | 6   | heat inserts brass M3 x D4.6 x L4              | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
+
+Sorry no picture, refer to the Dragon photo
