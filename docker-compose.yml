@@ -1,0 +1,11 @@
+version: "3.7"
+
+services:
+  page:
+    build:
+      context: .
+    command: "mkdocs serve -a 0.0.0.0:8000"
+    volumes:
+      - "./docs/:/app/docs"
+    ports:
+      - 62999:8000

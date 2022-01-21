@@ -13,6 +13,25 @@ Part descriptions are written in markdown (.md) files.
 
 If you're not familiar with Git, reach out to `@miklschmidt#2036` on discord, or get help on [the unofficial Rat Rig discord server](https://discord.gg/D62e8XNeYa).
 
+Please note that all contributes are automatically subject to the terms of the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+
 Please! Share your candy!
 
 ![candy](docs/assets/candy_bowl.png)
+
+## Local deployment 
+
+There are two options, either you have a local Python envorinment with `Python` and `Poetry` or you can use Docker - the latter is easier but will be troublesome on Windows (since Windows is troublesome).
+
+To get Docker go to https://docs.docker.com/get-docker/ and proceed with the installation steps. Do not be affraid in case you see this as black magic, Docker is a tool that allowes to run a tiny version of a Linux system on Mac, Windows and Linux - that tindy system is isolated from your machine - it's like a sandbox for developers.
+
+> Per the documentation:
+> It remains free for small businesses (fewer than 250 employees AND less than $10 million in annual revenue), **personal use**, education, and **non-commercial open source projects**.
+
+Once it's installed you can use Docker Compose to deploy your own private EVA contrib site that will be visible only to you, go ahead and experiment with it to make sure your changes work before making a pull request :)
+
+```
+docker-compose up
+```
+
+And your local site will be accessible on the 127.0.0.1 address with is the loopback address pointing to your own machine: http://127.0.0.1:62999 is the full address and port.
