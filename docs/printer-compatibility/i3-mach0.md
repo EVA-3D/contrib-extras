@@ -33,11 +33,11 @@ In the pictures below from OnShape, the green and black parts are from the EVA e
 
 | No | Qty | Name                                         	| Printable 									| Part Image |
 | -- | --- | -------------------------------------------- 	| --------------------------------------------- | ---------- |
-| 1  | 2   | bearing rider                                	| [Yes](stl/mach0i3_bearing_rider.stl)          | ![bearing rider](assets/mach0i3_bearing_rider.jpg) |
-| 2  | 1   | back plate 									| [Yes](stl/mach0i3_back_plate.stl				| ![back plate](assets/mach0i3_back_plate.jpg)	 |
-| 3  | 1   | front plate LGXlite / Titan					| [Yes](stl/mach0i3_front_plate_lgxlite.stl) / [Yes](stl/mach0i3_front_plate_titan.stl) | ![front plate lgxlite](assets/mach0i3_front_plate_lgxlite.jpg) / ![front plate titan](assets/mach0i3_front_plate_titan.jpg)|
-| 4  | 1   | fan plate / with optional support				| [Yes](stl/mach0i3_fan_plate.stl) / [Yes](stl/mach0i3_fan_plate_support.stl) | ![bearing rider](assets/mach0i3_fan_plate.jpg) / ![bearing rider](assets/mach0i3_fan_plate_support.jpg) |
-| 5  | 1   | belt tensioner 								| [Yes](stl/mach0i3_belt_tensioner.stl)         | ![bearing rider](assets/mach0i3_belt_tensioner.jpg) |
+| 1  | 2   | bearing rider                                	| [Yes mach0i3_bearing_rider.stl ](stl/mach0i3_bearing_rider.stl)       | ![bearing rider](assets/mach0i3_bearing_rider.jpg) |
+| 2  | 1   | back plate 									| [Yes mach0i3_back_plate.stl](stl/mach0i3_back_plate.stl)				| ![back plate](assets/mach0i3_back_plate.jpg)	 |
+| 3  | 1   | front plate LGXlite / Titan					| [Yes mach0i3_front_plate_lgxlite.stl](stl/mach0i3_front_plate_lgxlite.stl) / [Yes mach0i3_front_plate_titan.stl](stl/mach0i3_front_plate_titan.stl) | ![front plate lgxlite](assets/mach0i3_front_plate_lgxlite.jpg) / ![front plate titan](assets/mach0i3_front_plate_titan.jpg)|
+| 4  | 1   | fan plate / with optional support				| [Yes mach0i3_fan_plate.stl](stl/mach0i3_fan_plate.stl) / [Yes](stl/mach0i3_fan_plate_support.stl) | ![bearing rider](assets/mach0i3_fan_plate.jpg) / ![bearing rider](assets/mach0i3_fan_plate_support.jpg) |
+| 5  | 1   | belt tensioner 								| [Yes mach0i3_belt_tensioner.stl](stl/mach0i3_belt_tensioner.stl)      | ![bearing rider](assets/mach0i3_belt_tensioner.jpg) |
 | 6  | 2   | Linear Bearing LM8UU							| [No]											|	|
 | 7  | 1   | 5015 Fan/Blower								| [No]											|	|
 | 8  | 12  | M3 Nut											| [No]											|	|
