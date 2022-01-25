@@ -9,7 +9,7 @@ title: i3 X carriage for EVA hotend support (LGXlite and Titan extruders)
 This was an attempt to revive my old Prusa i3 clone. 
 Taking inspiration from the [EVA project](https://main.eva-3d.page/) ,trying to use as much from EVA ecosystem and trying to fit it within the confined boundaries of i3 I came up with this conversion.
 
-Unfortunatley I only managed to utilize and keep compatibility with limited parts from the EVA ecosystem, particularly hotends, and air horn. Rest of the parts are more of a conversion kit for the i3 keeping however the EVA spirit.
+Unfortunatley I only managed to utilize and keep compatibility with limited parts from the EVA ecosystem, particularly hotends, air horn and cable holder. Rest of the parts are more of a conversion kit for the i3 keeping however the EVA spirit.
 Regarding extruders, there currently two mount plates available to fit the conversion kit, for LGX lite and for Titan.
 
 
@@ -22,7 +22,7 @@ A few photos below ilustrute the X carriage conversion on an i3.
 In the pictures below from OnShape, the green and black parts are from the EVA ecosystem while the ones in blue are the ones required for i3 modification.
 
 ![i3 X carriage with LGXlite Extruder](assets/mach0i3_lgxlite_subassy.jpg)
-![i3 X carriage with Titan Extruder](assets/mach0i3_lgxlite_titan.jpg)
+![i3 X carriage with Titan Extruder](assets/mach0i3_titan_subassy.jpg)
 
 
 ## Compatibility with EVA hotends/horns
