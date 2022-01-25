@@ -55,7 +55,8 @@ In the pictures below from OnShape, the green and black parts are from the EVA e
 
 
 
-
+## Printing
+Print with the largest flat area facing the bed.
 Note that the bolts self-tap into adaptor parts.
 
 [Onshape i3 x carriage for EVA hotend support project](https://cad.onshape.com/documents/99f26b9849712d97c941bb22/w/c940867efa0c652e4f993383/e/f244a8d39850146da104757e?renderMode=0&uiState=61efddbb5e284d03d962fee6) link (may contain not stable updates)
