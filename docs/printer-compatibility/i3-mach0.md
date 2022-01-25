@@ -26,6 +26,9 @@ In the pictures below from OnShape, the green and black parts are from the EVA e
 ![i3 X carriage with Titan Extruder](assets/mach0i3_titan_subassy.jpg)
 ## i3 X carriage Back plate subassembly
 ![i3 X carriage back plate subassembly](assets/mach0i3_back_subassy.jpg)
+## i3 X carriage front plate subassembly
+![i3 X carriage front plate subassembly](assets/mach0i3_front_subassy.jpg)
+
 
 ## Compatibility with EVA hotends/horns
 
@@ -48,6 +51,7 @@ In the pictures below from OnShape, the green and black parts are from the EVA e
 | 11 | 7   | M3 Din912 screw 10mm							| No											|	|
 | 12 | 1   | M3 Din912 screw 25mm							| No											|	|
 | 13 | 5   | M3 Din912 screw 30mm							| No											|	|
+| 14 | 1   | PTFE tube 40mm									| No											|   |
 
 
 
