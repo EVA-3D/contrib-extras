@@ -20,10 +20,11 @@ A few photos below ilustrute the X carriage conversion on an i3.
 ![i3 X carriage with LGXlite Extruder 2](assets/mach0i3_lgxlite_2.jpg)
 
 In the pictures below from OnShape, the green and black parts are from the EVA ecosystem while the ones in blue are the ones required for i3 modification.
-
+## i3 X carriage with LGXlite 
 ![i3 X carriage with LGXlite Extruder](assets/mach0i3_lgxlite_subassy.jpg)
+## i3 X carriage with Titan subassy
 ![i3 X carriage with Titan Extruder](assets/mach0i3_titan_subassy.jpg)
-
+## i3 X carriage Back plate subassembly
 ![i3 X carriage back plate subassembly](assets/mach0i3_back_subassy.jpg)
 
 ## Compatibility with EVA hotends/horns
