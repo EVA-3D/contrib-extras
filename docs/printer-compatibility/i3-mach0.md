@@ -24,6 +24,7 @@ In the pictures below from OnShape, the green and black parts are from the EVA e
 ![i3 X carriage with LGXlite Extruder](assets/mach0i3_lgxlite_subassy.jpg)
 ![i3 X carriage with Titan Extruder](assets/mach0i3_titan_subassy.jpg)
 
+![i3 X carriage back plate subassembly](assets/mach0i3_back_subassy.jpg)
 
 ## Compatibility with EVA hotends/horns
 
