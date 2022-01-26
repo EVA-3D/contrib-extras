@@ -34,6 +34,11 @@ In the pictures below from OnShape, the green and black parts are from the EVA e
 
 2.3.0
 
+## Related EVA parts
+
+EVA ecosystem compatibility : all hotends(only tested Dragon& E3Dv6), air horn and cable holder
+
+
 ## BOM (excluding hotend and mounting accessories)
 
 | No | Qty | Name                                         	| Printable 									| Part Image |
