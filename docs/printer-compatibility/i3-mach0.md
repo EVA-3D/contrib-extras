@@ -44,9 +44,9 @@ EVA ecosystem compatibility : all hotends(only tested Dragon& E3Dv6), air horn a
 | No | Qty | Name                                         	| Printable 									| Part Image |
 | -- | --- | -------------------------------------------- 	| --------------------------------------------- | ---------- |
 | 1  | 2   | bearing rider                                	| Yes <br/>[mach0i3_bearing_rider.stl](stl/mach0i3_bearing_rider.stl)       | ![bearing rider](assets/mach0i3_bearing_rider.jpg) |
-| 2  | 1   | back plate 									| Yes <br/>[mach0i3_back_plate.stl](stl/mach0i3_back_plate.stl)				| ![back plate](assets/mach0i3_back_plate.jpg)	 |
-| 3  | 1   | front plate <br/> LGXlite / Titan				| Yes <br/>[mach0i3_front_plate_lgxlite.stl](stl/mach0i3_front_plate_lgxlite.stl) / <br/> [mach0i3_front_plate_titan.stl](stl/mach0i3_front_plate_titan.stl) | ![front plate lgxlite](assets/mach0i3_front_plate_lgxlite.jpg) / ![front plate titan](assets/mach0i3_front_plate_titan.jpg)|
-| 4  | 1   | fan plate / <br/> fan plate w/optional support	| Yes <br/>[mach0i3_fan_plate.stl](stl/mach0i3_fan_plate.stl) / <br/> [mach0i3_fan_plate_support.stl](stl/mach0i3_fan_plate_support.stl) | ![bearing rider](assets/mach0i3_fan_plate.jpg) / ![bearing rider](assets/mach0i3_fan_plate_support.jpg) |
+| 2  | 1   | back plate 									| Yes <br/>[mach0i3_back_plate.stl](stl/mach0i3_back_plate.stl)	<br/>[mach0i3_back_plate_supports.stl](stl/mach0i3_back_plate_supports.stl)			| ![back plate](assets/mach0i3_back_plate.jpg)	 |
+| 3  | 1   | front plate <br/> LGXlite / Titan				| Yes <br/>[mach0i3_front_plate_lgxlite.stl](stl/mach0i3_front_plate_lgxlite.stl) <br/>[mach0i3_front_plate_lgxlite_supports.stl](stl/mach0i3_front_plate_lgxlite_supports.stl) / <br/> [mach0i3_front_plate_titan.stl](stl/mach0i3_front_plate_titan.stl) <br/> [mach0i3_front_plate_titan_supports.stl](stl/mach0i3_front_plate_titan_supports.stl)| ![front plate lgxlite](assets/mach0i3_front_plate_lgxlite.jpg) / ![front plate titan](assets/mach0i3_front_plate_titan.jpg)|
+| 4  | 1   | fan plate / <br/> fan plate w/optional support	| Yes <br/>[mach0i3_fan_plate.stl](stl/mach0i3_fan_plate.stl) / <br/> [mach0i3_fan_plate_supports.stl](stl/mach0i3_fan_plate_supports.stl) | ![bearing rider](assets/mach0i3_fan_plate.jpg) / ![bearing rider](assets/mach0i3_fan_plate_supports.jpg) |
 | 5  | 1   | belt tensioner 								| Yes <br/>[mach0i3_belt_tensioner.stl](stl/mach0i3_belt_tensioner.stl)      | ![bearing rider](assets/mach0i3_belt_tensioner.jpg) |
 | 6  | 2   | Linear Bearing LM8UU							| No											|	|
 | 7  | 1   | 5015 Fan/Blower								| No											|	|
@@ -62,6 +62,6 @@ EVA ecosystem compatibility : all hotends(only tested Dragon& E3Dv6), air horn a
 
 ## Printing
 Print with the largest flat area facing the bed.
-Note that the bolts self-tap into adaptor parts.
+Use the "_supports" part to get the bolts self-tap like rest of the EVA parts.
 
 [Onshape i3 x carriage for EVA hotend support project](https://cad.onshape.com/documents/99f26b9849712d97c941bb22/w/c940867efa0c652e4f993383/e/f244a8d39850146da104757e?renderMode=0&uiState=61efddbb5e284d03d962fee6) link (may contain not stable updates)
