@@ -1,0 +1,43 @@
+{% block creator %}
+{% if eva.author.url %}
+> Created by: [{{ eva.author.display_name }}]({{ eva.author.url }})
+{% else %}
+> Created by: {{ eva.author.display_name }}
+{% endif %}
+{% endblock creator %}
+
+
+{% block description %}
+## Description
+{{ eva.description }}
+{% endblock description %}
+
+
+{% block bom %}
+## BOM
+
+| No | Qty | Name | Printable |
+| -- | --- | ---- | --------- |
+{% for item in eva.bom %}|{{loop.index}}|{{item.qty}}|{{item.name}}|{% if item.url %}[{{item.is_printable|yes_no}}]({{item.url}}){% else %}{{item.is_printable|yes_no}}{% endif %}|
+{% endfor %}
+{% endblock bom %}
+
+
+{% block compatibility %}
+## Compatible EVA Version
+{{ eva.eva_version }}
+{% endblock compatibility %}
+
+
+{% block instructions %}
+## Print instructions
+{{ eva.print_instructions }}
+{% endblock instructions %}
+
+
+{% block step_files %}
+{% if eva.step_files %}
+## Step Files
+{{ eva.step_files }}
+{% endif %}
+{% endblock step_files %}

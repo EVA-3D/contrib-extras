@@ -1,7 +1,7 @@
-app.document$.subscribe(function() {
-  window.CI360.init();
-  var tables = document.querySelectorAll("article table")
-    tables.forEach(function(table) {
-      new Tablesort(table)
+document$.subscribe(function() {
+  var tables = document.querySelectorAll("article table:not([class])")
+  tables.forEach(function(table) {
+    new Tablesort(table)
   })
+  window.CI360.init();
 })

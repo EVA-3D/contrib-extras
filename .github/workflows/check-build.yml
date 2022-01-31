@@ -3,6 +3,7 @@ on: pull_request
 
 env:
   PYTHON_VERSION: 3.10.1
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
 jobs:
   check_build:
@@ -37,11 +38,14 @@ jobs:
         run: poetry install --no-interaction --no-root
 
       - name: Install Python dependencies
-        run: poetry install --no-interaction
+        run: |
+          poetry install --no-interaction
+          poetry run pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
 
       - name: Check docs build
         run: poetry run mkdocs build -s
 
+      # TODO: wanted to have rendered pages uploaded but those are over 60MB os will not fit in the free GH plan
       # - name: Archive docs artifacts
       #   uses: actions/upload-artifact@v2
       #   with:
