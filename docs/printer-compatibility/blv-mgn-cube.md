@@ -20,7 +20,7 @@ If you want to remix things, the [STEP files are here](assets/blv-mgn-cube.step)
 ## BOM
 | No | Qty | Name                                           | Printable |
 | -- | --- | ---------------------------------------------- | --------- |
-| 1  | 1   | Modified universal face                        | [Yes](stl/blv-ngm-cube-universal_face.stl) |
+| 1  | 1   | Modified universal face                        | [Yes](stl/blv-mgn-cube-universal_face.stl) |
 | 2  | 2   | 6mm belt grabbers                              | [Yes](stl/blv-mgn-cube-face_belt_grabber.stl) |
 | 3  | 1   | Modified CoreXY back                           | [Yes](stl/blv-mgn-cube-back_corexy.stl) |
 | 4  | 1   | 6mm belt tensioner (left)                      | [Yes](stl/blv-mgn-cube-tension_slider_6mm_left.stl) |
