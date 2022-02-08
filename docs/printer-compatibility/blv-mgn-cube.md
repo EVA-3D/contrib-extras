@@ -46,6 +46,8 @@ This approach uses the default hit zone on the top-left gantry mount included in
 
 The mount is compatible with endstop switches with M2.5 holes and hole spacing between 8-9.5mm.
 
+Thanks to Jose Elias for all the help with this approach!
+
 | No | Qty | Name                                           | Printable |
 | -- | --- | ---------------------------------------------- | --------- |
 | 1  | 1   | Endstop switch mounting bracket                | [Yes](stl/blv-mgn-cube-end_stop_mount.stl) |
@@ -69,4 +71,3 @@ The mount is compatible with endstop switches with M2.5 holes and hole spacing b
 | -- | --- | ---------------------------------------------- | --------- |
 | 1  | 1   | Bottom part with endstop mount                 | [Yes](stl/blv-mgn-cube-bottom_with_endstop.stl) |
 | 2  | 2   | M2.5x12mm screw                                | No |
-
