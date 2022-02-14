@@ -31,7 +31,6 @@ v1.0 12/05/2021 TheMacBoy Release
 | 1  | 1   | [Face] eva-2.2-dragonfly-bms-face.stl    | [Yes](stl/eva-2.2-dragonfly-bms-face.stl) |
 | 1  | 1   | [Face] eva-2.2-dragonfly-bms-support.stl | [Yes](stl/eva-2.2-dragonfly-bms-support.stl) |
 
-
 ## Hardware Required 
 Standard EVA
 
