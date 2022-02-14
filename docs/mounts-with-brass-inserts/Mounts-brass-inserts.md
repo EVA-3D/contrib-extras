@@ -41,19 +41,23 @@ EVA 2.4.0 or later
 | 2  | 1   | backplate Core XY                            | [Yes](stl/back_corexy-2.4.1-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/74778ed34247d7556e100400/w/a58d330b6eac41d3ee1d6257/e/5f6109f91396259629d149cf)
 | 2a | 1   | backplate Cartesian                          | [Yes](stl/back_cartesian-2.4.1-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/94ffc61ea8de2e8b4d175cb5/w/45370a8d35a588c223676b4b/e/29da292ee8a01c0ce953947a)
 | 2b | 1   | backplate CoreXY-dual 5015 Supersniffles     | [Yes](stl/dual_5015_back_v3_heat_inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/79d9ad219cc5cc9ce0dcf704/w/b53269836ac593db847c52c7/e/6edbe9540efb021b6a6e376c)
-| 3  | 1   | Bottom plate                                 | [Yes](stl/bottom_mgn12_short_duct-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/74778ed34247d7556e100400/w/a58d330b6eac41d3ee1d6257/e/884e27c8b1dbb4fb2e92761c)
-| 4  | 1   | Tri-horn fan duct                            | [Yes](stl/TriHorn Duct Default-2.4.1-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/0032726621935a272d71ecdd/w/8c7ff9e179be83096c43302e/e/2895bb5dddef3b905fc26f3c?configuration=List_LoFJO9VgV4Gpxp%3DDefault%3BList_ay6IJmGiZEoJuq%3DDefault&renderMode=0&uiState=61c9daeb5ae6fe74d6b1218e)
-| 4a | 1   | Tri-horn fan duct low                        | [Yes](stl/TriHorn Duct Low-2.4.1-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/0032726621935a272d71ecdd/w/8c7ff9e179be83096c43302e/e/2895bb5dddef3b905fc26f3c?configuration=List_LoFJO9VgV4Gpxp%3DDefault%3BList_ay6IJmGiZEoJuq%3DDefault&renderMode=0&uiState=61c9daeb5ae6fe74d6b1218e)
-| 4b | 1   | Tri-horn fan duct wide                       | [Yes](stl/TriHorn Duct Wide-2.4.1-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/0032726621935a272d71ecdd/w/8c7ff9e179be83096c43302e/e/2895bb5dddef3b905fc26f3c?configuration=List_LoFJO9VgV4Gpxp%3DDefault%3BList_ay6IJmGiZEoJuq%3DDefault&renderMode=0&uiState=61c9daeb5ae6fe74d6b1218e)
-| 4c | 1   | Tri-horn fan duct wide low                   | [Yes](stl/TriHorn Duct Wide Low-2.4.1-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/0032726621935a272d71ecdd/w/8c7ff9e179be83096c43302e/e/2895bb5dddef3b905fc26f3c?configuration=List_LoFJO9VgV4Gpxp%3DDefault%3BList_ay6IJmGiZEoJuq%3DDefault&renderMode=0&uiState=61c9daeb5ae6fe74d6b1218e)
-| 4d | 1   | Dual 5015 Monster horn duct Supersniffles    | [Yes](stl/dual_5015_monster_horns_duct_v2.3_heat_inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/9c252f9471d1d23ee56d6b70/w/959fe6d1b6f12c8dfe326720/e/18901272a3158b3c621a46d2)
-| 4e | 1   | Dual 5015 Volcano/Rapido UHF duct (Tobi)     | [Yes](stl/horn-rapido-uhf-2.4.1-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/d0c8871ffd12a03b94cb6b30/w/60becf0a1f7f2dc8485e1bea/e/336a4f443bbbc477c9fbf4a0)
-| 5  | ##  | heat inserts brass M3 x D4 x L4              | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)
+| 3  | 1   | Bottom plate MGN12                           | [Yes](stl/bottom_mgn12_short_duct-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/74778ed34247d7556e100400/w/a58d330b6eac41d3ee1d6257/e/884e27c8b1dbb4fb2e92761c)
+| 3a | 1   | Bottom plate Dual 5015 MGN12 Supersniffles   | [Yes](stl/dual_5015_bottom_v3.stl)        |  [Onshape](https://cad.onshape.com/documents/9c252f9471d1d23ee56d6b70/w/959fe6d1b6f12c8dfe326720/e/2e778d9372bc94c95344f2a8)
+| 4  | 1   | Tri-horn fan duct default                    | [Yes](stl/TriHorn-Duct-Default-2.4.2-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/0032726621935a272d71ecdd/w/8c7ff9e179be83096c43302e/e/2895bb5dddef3b905fc26f3c?configuration=List_LoFJO9VgV4Gpxp%3DDefault%3BList_ay6IJmGiZEoJuq%3DDefault&renderMode=0&uiState=61c9daeb5ae6fe74d6b1218e)
+| 4a | 1   | Tri-horn fan duct default narrow             | [Yes](stl/TriHorn-Duct-Default-Narrow-2.4.2-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/0032726621935a272d71ecdd/w/8c7ff9e179be83096c43302e/e/2895bb5dddef3b905fc26f3c?configuration=List_LoFJO9VgV4Gpxp%3DDefault%3BList_ay6IJmGiZEoJuq%3DDefault&renderMode=0&uiState=61c9daeb5ae6fe74d6b1218e)
+| 4b | 1   | Tri-horn fan duct high                       | [Yes](stl/TriHorn-Duct-High-2.4.2-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/0032726621935a272d71ecdd/w/8c7ff9e179be83096c43302e/e/2895bb5dddef3b905fc26f3c?configuration=List_LoFJO9VgV4Gpxp%3DDefault%3BList_ay6IJmGiZEoJuq%3DDefault&renderMode=0&uiState=61c9daeb5ae6fe74d6b1218e)
+| 4c | 1   | Tri-horn fan duct high narrow                | [Yes](stl/TriHorn-Duct-High-Narrow-2.4.2-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/0032726621935a272d71ecdd/w/8c7ff9e179be83096c43302e/e/2895bb5dddef3b905fc26f3c?configuration=List_LoFJO9VgV4Gpxp%3DDefault%3BList_ay6IJmGiZEoJuq%3DDefault&renderMode=0&uiState=61c9daeb5ae6fe74d6b1218e)
+| 4d | 1   | Tri-horn fan duct Volcano/Rapido UHF         | [Yes](stl/TriHorn-Volcano-Duct-UHF-2.4.2-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/0032726621935a272d71ecdd/w/8c7ff9e179be83096c43302e/e/2895bb5dddef3b905fc26f3c?configuration=List_LoFJO9VgV4Gpxp%3DDefault%3BList_ay6IJmGiZEoJuq%3DDefault&renderMode=0&uiState=61c9daeb5ae6fe74d6b1218e)
+| 4e | 1   | Dual 5015 Monster horn duct Supersniffles    | [Yes](stl/dual_5015_monster_horns_duct_v2.3_heat_inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/9c252f9471d1d23ee56d6b70/w/959fe6d1b6f12c8dfe326720/e/18901272a3158b3c621a46d2)
+| 4f | 1   | Dual 5015 Volcano/Rapido UHF duct (Tobi)     | [Yes](stl/horn-rapido-uhf-2.4.1-inserts.stl)        |  [Onshape](https://cad.onshape.com/documents/d0c8871ffd12a03b94cb6b30/w/60becf0a1f7f2dc8485e1bea/e/336a4f443bbbc477c9fbf4a0)
+| 5  | 1   | Universal cable mount                        | [Yes](stl/unversal_cable_mount-2.4.2-inserts.stl) | [Onshape](https://cad.onshape.com/documents/74778ed34247d7556e100400/w/a58d330b6eac41d3ee1d6257/e/74e3872d67a8b60bdf4ad503)
+| 6  | ##  | heat inserts brass M3 x D4.6 x L4              | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)
 
 ![Carriage](assets/eva-core.jpg)
 
 The picture are representative samples to show which holes get inserts.
 
+A note on the Bondtech LGX lite extruder: It has integrated inserts, there are no hex nuts on the mounting plate. So just use the regular EVA 2.4.2 part.
 
 ## Extruders
 
@@ -66,7 +70,7 @@ The picture are representative samples to show which holes get inserts.
 | 1a | 1   | Orbiter 1.5 top plate                          | [Yes](stl/top_orbiter_mgn12-2.4.1-inserts.stl) |
 | 1b | 1   | Orbiter 2.0 top plate                          | [Yes](stl/top_orbiter_2_0_mgn12-2.4.1-inserts.stl)        |
 | 1c | 1   | Sherpa top plate                               | [Yes](stl/top_sherpa_mgn12-2.4.1-inserts.stl)        |
-| 2  | 2-3 | heat inserts brass M3 x D4 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
+| 2  | 2-3 | heat inserts brass M3 x D4.6 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
 
 You find the Orbiter plate above in the picture of the carriage.
 
@@ -81,9 +85,9 @@ You find the Orbiter plate above in the picture of the carriage.
 
 | No | Qty | Name                                           | Printable | Source
 | -- | --- | ---------------------------------------------- | --------- | -------
-| 1  | 1   | Mosquito face                                  | [Yes](stl/mosquito_face-2.4.1-insert.stl) |
-| 2  | 1   | Mosquito support                               | [Yes](stl/mosquito_support-2.4.1-insert.stl)        |
-| 3  | 6   | heat inserts brass M3 x D4 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
+| 1  | 1   | Mosquito face                                  | [Yes](stl/mosquito_face-2.4.2-insert.stl) |
+| 2  | 1   | Mosquito support                               | [Yes](stl/mosquito_support-2.4.1-r2-insert.stl)        |
+| 3  | 6   | heat inserts brass M3 x D4.6 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
 
 ![Mosquito](assets/Mosquito.JPG)
 
@@ -94,9 +98,9 @@ You find the Orbiter plate above in the picture of the carriage.
 
 | No | Qty | Name                                           | Printable | Source
 | -- | --- | ---------------------------------------------- | --------- | -------
-| 1  | 1   | Dragon face                                  | [Yes](stl/dragon_face-2.4.1-inserts.stl) |
+| 1  | 1   | Dragon face                                  | [Yes](stl/dragon_face-2.4.2-inserts.stl) |
 | 2  | 1   | Dragon support                               | [Yes](stl/v6_support-2.4.1-insert.stl)        |
-| 3  | 6   | heat inserts brass M3 x D4 x L4              | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
+| 3  | 6   | heat inserts brass M3 x D4.6 x L4              | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
 
 ![Dragon](assets/Dragon.JPG)
 
@@ -109,7 +113,7 @@ You find the Orbiter plate above in the picture of the carriage.
 | -- | --- | ---------------------------------------------- | --------- | -------
 | 1  | 1   | Dragonfly BMO face                             | [Yes](stl/bmo_face-2.4.1-inserts.stl) |
 | 2  | 1   | Dragonfly BMO support                          | [Yes](stl/bmo_support-2.4.1-inserts.stl)        |
-| 3  | 6   | heat inserts brass M3 x D4 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
+| 3  | 6   | heat inserts brass M3 x D4.6 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
 
 Sorry no picture, refer to the Dragon photo
 
@@ -120,7 +124,7 @@ Sorry no picture, refer to the Dragon photo
 | No | Qty | Name                                           | Printable | Source
 | -- | --- | ---------------------------------------------- | --------- | -------
 | 1  | 1   | Rapido face (no support required)              | [Yes](stl/face_rapido-2.4.1-inserts.stl) |
-| 2  | 6   | heat inserts brass M3 x D4 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
+| 2  | 6   | heat inserts brass M3 x D4.6 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
 
 Note: The Rapido in HF configuration (V6 nozzles) can use all regular fan ducts, i.e. Tri-horn-duct. For the UHF-configuration, use the longer Volcano/Rapido duct from Tobi (see above)
 
@@ -133,7 +137,7 @@ Note: The Rapido in HF configuration (V6 nozzles) can use all regular fan ducts,
 | No | Qty | Name                                           | Printable | Source
 | -- | --- | ---------------------------------------------- | --------- | -------
 | 1  | 1   | Nova face (no support required)                | [Yes](stl/nova_face-2.4.1-inserts.stl) |
-| 2  | 2   | heat inserts brass M3 x D4 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
+| 2  | 2   | heat inserts brass M3 x D4.6 x L4                | No        | [AliExpress](https://aliexpress.com/item/4000232858343.html)_
 
 ![Nova](assets/nova.jpg)
 
