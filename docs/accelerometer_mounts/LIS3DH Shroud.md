@@ -8,13 +8,13 @@ title: greatguitartist's LIS3DH shroud mount
 EVA Heatsink Fan Shroud with mounting option for the LIS3DH accelerometer – Intended for printers that use Duet/RRF motion control
 
 
-![greatguitartist's LIS3DH shroud mount](assets/LIS3DH Shroud.jpg)
+![greatguitartist's LIS3DH shroud mount](assets/LIS3DH_Shroud.jpg)
 
 
 ## BOM
 | No | Qty | Name                                           | Printable |
 | -- | --- | ---------------------------------------------- | --------- |
-| 1  | 1   | LIS3DH Shroud                                  | [Yes](stl/LIS3DH Shroud.STL) |
+| 1  | 1   | LIS3DH Shroud                                  | [Yes](stl/LIS3DH_Shroud.STL) |
 | 2  | 2   | DIN 912 M3 6 mm                                | No        |
 | 3  | 1   | LIS3DH                                         | No        |
 | 4  | 2   | M3 Nut                                  		    | No        |
@@ -32,4 +32,4 @@ Infill Type: Cubic/Gyroid
 These settings ensure a rigid structure that won’t vibrate and throw off the accelerometer readings during input shaping.
 
 ## Step Files
-You can find the STEP file at [greatguitartist's LIS3DH shroud](assets/LIS3DH shroud.STEP)
+You can find the STEP file at [greatguitartist's LIS3DH shroud](assets/LIS3DH_Shroud.STEP)
