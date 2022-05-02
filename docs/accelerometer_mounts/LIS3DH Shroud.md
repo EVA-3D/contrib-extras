@@ -15,7 +15,7 @@ EVA Heatsink Fan Shroud with mounting option for the LIS3DH accelerometer – In
 | No | Qty | Name                                           | Printable |
 | -- | --- | ---------------------------------------------- | --------- |
 | 1  | 1   | LIS3DH Shroud                                  | [Yes](stl/LIS3DH_Shroud.stl) |
-| 2  | 2   | DIN 912 M2.5 8m                                | No        |
+| 2  | 2   | DIN 912 M2.5 8mm                               | No        |
 | 3  | 1   | LIS3DH                                         | No        |
 | 4  | 2   | M2.5 Nut                                		    | No        |
 
