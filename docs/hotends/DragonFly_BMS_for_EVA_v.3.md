@@ -9,8 +9,6 @@ This is a DragonFly BMS mount (from Phaetus hotend) for EVA v.3 (with Nuts and I
 
 ![Phaetus DragonFly BMS v.3 photo](assets/phaetus-dragonfly-bms-onshape-front-v.3.png)
 
-![Phaetus DragonFly BMS v.3 front](assets/phaetus-dragonfly-bms-onshape-front-v.3.png)
-
 ![Phaetus DragonFly BMS v.3 rear](assets/phaetus-dragonfly-bms-onshape-side-v.3.png)
 
 ![Phaetus DragonFly BMS v.3 bottom](assets/phaetus-dragonfly-bms-onshape-bottom-v.3.png)
