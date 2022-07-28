@@ -36,3 +36,4 @@ v1.0 28/07/2022 TheMacBoy Release
 Standard EVA v.3
 
 ## To Do 
+This is for the 6 fins version, pending to mod the version with 7 fins (I don't have any to test)
